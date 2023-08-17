@@ -1,0 +1,63 @@
+#Average number of core, accessory, unique groups gained or lost per additional genome based on 1000 pangenome size iterations.
+#The AVERAGE, MEDIAN gain/loss, and STANDARD DEVIATION are shown for each gene category between two pangenome sizes
+
+Number of groups of first (N=3) and last (N=8) size -> Average number of genes gained/lost per additional genome
+Core: 3820.52 - 3270.68 -> -109.97
+Accessory: 762.37 - 2025.64 -> 252.66
+Unique: 1542.13 - 2386.75 -> 168.92
+Accessory combined with unique: 2304.49 - 4412.40 -> 421.58
+
+N=3
+Core groups 3820.519
+Accessory groups 762.365
+Unique groups 1542.129
+
+N=3 -> N=4
+Core difference: -185.27, -41.00, 298.51
+Unique difference: 210.17, 155.00, 418.48
+Accessory difference: 417.42, 308.00, 270.86
+Accessory combined with unique difference: 627.59, 415.00, 614.36
+
+N=4
+Core groups 3635.247
+Accessory groups 1179.783
+Unique groups 1752.303
+
+N=4 -> N=5
+Core difference: -150.39, -22.00, 272.37
+Unique difference: 234.39, 150.00, 391.04
+Accessory difference: 323.63, 214.00, 261.79
+Accessory combined with unique difference: 558.02, 348.00, 597.85
+
+N=5
+Core groups 3484.858
+Accessory groups 1503.411
+Unique groups 1986.696
+
+N=5 -> N=6
+Core difference: -113.60, -13.00, 234.59
+Unique difference: 214.76, 140.00, 370.04
+Accessory difference: 268.29, 171.00, 236.62
+Accessory combined with unique difference: 483.05, 303.00, 548.04
+
+N=6
+Core groups 3371.26
+Accessory groups 1771.698
+Unique groups 2201.454
+
+N=6 -> N=7
+Core difference: -100.58, -5.00, 223.11
+Unique difference: 185.30, 121.00, 381.40
+Accessory difference: 253.95, 161.00, 228.39
+Accessory combined with unique difference: 439.24, 276.00, 547.93
+
+N=7
+Core groups 3270.684
+Accessory groups 2025.645
+Unique groups 2386.75
+
+N=7 -> N=8
+Core difference: -94.68, -3.00, 211.66
+Unique difference: 177.25, 110.00, 383.24
+Accessory difference: 246.35, 137.00, 221.05
+Accessory combined with unique difference: 423.61, 199.00, 551.98

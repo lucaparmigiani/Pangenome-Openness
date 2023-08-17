@@ -1,0 +1,8 @@
+Genome Number	Number of new gene families
+2	5226
+3	882
+4	2607
+5	1202
+6	3489
+7	527
+8	3

@@ -1,0 +1,103 @@
+Grouping version: 1
+Total genomes: 8
+Total mRNAs: 38976
+Total homology groups: 14678
+Single copy ortholog groups: 376 2.56%
+
+Core groups: 383 2.61%
+Accessory groups: 5591 38.09%
+Unique groups: 8704 59.30%
+
+Average % of genes per class for individual genomes, standard deviation, range
+Core 7.93, 0.31, 7.29-8.43%
+Accessory 69.13, 29.89, 0.74-92.20%
+Unique 22.94, 29.72, 0.02-91.08%
+
+Genome 1
+Total mRNAs: 4569
+Core: 385 8.43%
+Accessory: 1898 41.54%
+Unique: 2286 50.03%
+
+Total groups: 4560
+Core: 383
+Accessory: 1891
+Unique: 2286
+
+Genome 2
+Total mRNAs: 4875
+Core: 385 7.90%
+Accessory: 3921 80.43%
+Unique: 569 11.67%
+
+Total groups: 4851
+Core: 383
+Accessory: 3899
+Unique: 569
+
+Genome 3
+Total mRNAs: 5295
+Core: 386 7.29%
+Accessory: 4207 79.45%
+Unique: 702 13.26%
+
+Total groups: 5283
+Core: 383
+Accessory: 4198
+Unique: 702
+
+Genome 4
+Total mRNAs: 4946
+Core: 385 7.78%
+Accessory: 4560 92.20%
+Unique: 1 0.02%
+
+Total groups: 4932
+Core: 383
+Accessory: 4548
+Unique: 1
+
+Genome 5
+Total mRNAs: 4814
+Core: 387 8.04%
+Accessory: 4135 85.90%
+Unique: 292 6.07%
+
+Total groups: 4800
+Core: 383
+Accessory: 4125
+Unique: 292
+
+Genome 6
+Total mRNAs: 4955
+Core: 385 7.77%
+Accessory: 4563 92.09%
+Unique: 7 0.14%
+
+Total groups: 4943
+Core: 383
+Accessory: 4553
+Unique: 7
+
+Genome 7
+Total mRNAs: 4791
+Core: 385 8.04%
+Accessory: 3868 80.73%
+Unique: 538 11.23%
+
+Total groups: 4786
+Core: 383
+Accessory: 3865
+Unique: 538
+
+Genome 8
+Total mRNAs: 4731
+Core: 387 8.18%
+Accessory: 35 0.74%
+Unique: 4309 91.08%
+
+Total groups: 4726
+Core: 383
+Accessory: 34
+Unique: 4309
+

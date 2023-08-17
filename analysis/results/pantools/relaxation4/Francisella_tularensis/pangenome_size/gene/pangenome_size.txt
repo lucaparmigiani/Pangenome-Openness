@@ -1,0 +1,728 @@
+N=2
+ Core range: 1531-1849
+ Average: 1687.925
+ Median: 1678.0
+
+ Accessory range: 0-0
+ Average: 0.0
+ Median: 0.0
+
+ Unique range: 0-596
+ Average: 274.098
+ Median: 315.0
+
+N=3
+ Core range: 1481-1845
+ Average: 1628.907
+ Median: 1652.0
+
+ Accessory range: 2-314
+ Average: 181.869
+ Median: 182.0
+
+ Unique range: 2-572
+ Average: 224.917
+ Median: 186.0
+
+N=4
+ Core range: 1454-1833
+ Average: 1590.968
+ Median: 1604.0
+
+ Accessory range: 18-506
+ Average: 291.86
+ Median: 319.0
+
+ Unique range: 0-535
+ Average: 205.774
+ Median: 178.0
+
+N=5
+ Core range: 1436-1818
+ Average: 1566.346
+ Median: 1520.0
+
+ Accessory range: 38-548
+ Average: 365.432
+ Median: 367.0
+
+ Unique range: 3-562
+ Average: 194.111
+ Median: 209.0
+
+N=6
+ Core range: 1419-1809
+ Average: 1545.238
+ Median: 1508.0
+
+ Accessory range: 55-643
+ Average: 420.814
+ Median: 445.0
+
+ Unique range: 5-572
+ Average: 193.447
+ Median: 213.0
+
+N=7
+ Core range: 1418-1729
+ Average: 1530.784
+ Median: 1502.0
+
+ Accessory range: 140-688
+ Average: 464.111
+ Median: 489.0
+
+ Unique range: 5-576
+ Average: 191.281
+ Median: 209.0
+
+N=8
+ Core range: 1416-1727
+ Average: 1519.597
+ Median: 1494.0
+
+ Accessory range: 146-738
+ Average: 496.827
+ Median: 506.0
+
+ Unique range: 5-528
+ Average: 192.234
+ Median: 208.0
+
+N=9
+ Core range: 1412-1723
+ Average: 1507.825
+ Median: 1486.0
+
+ Accessory range: 158-743
+ Average: 525.959
+ Median: 525.0
+
+ Unique range: 7-509
+ Average: 198.222
+ Median: 211.0
+
+N=10
+ Core range: 1408-1667
+ Average: 1498.955
+ Median: 1479.0
+
+ Accessory range: 272-756
+ Average: 549.514
+ Median: 550.0
+
+ Unique range: 5-546
+ Average: 201.5
+ Median: 213.0
+
+N=11
+ Core range: 1405-1664
+ Average: 1489.022
+ Median: 1473.0
+
+ Accessory range: 272-788
+ Average: 571.163
+ Median: 590.0
+
+ Unique range: 11-543
+ Average: 208.994
+ Median: 215.0
+
+N=12
+ Core range: 1402-1664
+ Average: 1480.979
+ Median: 1467.0
+
+ Accessory range: 322-792
+ Average: 590.774
+ Median: 612.0
+
+ Unique range: 12-499
+ Average: 215.032
+ Median: 219.0
+
+N=13
+ Core range: 1401-1661
+ Average: 1473.731
+ Median: 1463.0
+
+ Accessory range: 345-809
+ Average: 608.895
+ Median: 628.0
+
+ Unique range: 11-496
+ Average: 222.02
+ Median: 224.0
+
+N=14
+ Core range: 1391-1661
+ Average: 1466.384
+ Median: 1458.0
+
+ Accessory range: 345-809
+ Average: 628.101
+ Median: 645.0
+
+ Unique range: 11-499
+ Average: 228.157
+ Median: 229.0
+
+N=15
+ Core range: 1391-1661
+ Average: 1461.469
+ Median: 1454.0
+
+ Accessory range: 345-824
+ Average: 641.782
+ Median: 660.0
+
+ Unique range: 11-497
+ Average: 233.678
+ Median: 232.0
+
+N=16
+ Core range: 1386-1659
+ Average: 1456.202
+ Median: 1450.0
+
+ Accessory range: 348-835
+ Average: 655.625
+ Median: 671.0
+
+ Unique range: 11-469
+ Average: 240.185
+ Median: 240.0
+
+N=17
+ Core range: 1383-1649
+ Average: 1451.571
+ Median: 1446.0
+
+ Accessory range: 358-847
+ Average: 669.382
+ Median: 683.0
+
+ Unique range: 14-471
+ Average: 246.258
+ Median: 249.0
+
+N=18
+ Core range: 1382-1648
+ Average: 1447.099
+ Median: 1443.0
+
+ Accessory range: 365-861
+ Average: 682.473
+ Median: 696.0
+
+ Unique range: 14-473
+ Average: 252.003
+ Median: 253.0
+
+N=19
+ Core range: 1382-1629
+ Average: 1443.085
+ Median: 1440.0
+
+ Accessory range: 386-875
+ Average: 694.519
+ Median: 706.0
+
+ Unique range: 14-475
+ Average: 257.011
+ Median: 260.0
+
+N=20
+ Core range: 1381-1613
+ Average: 1438.724
+ Median: 1436.0
+
+ Accessory range: 412-875
+ Average: 706.909
+ Median: 716.0
+
+ Unique range: 29-475
+ Average: 261.913
+ Median: 264.0
+
+N=21
+ Core range: 1381-1611
+ Average: 1435.137
+ Median: 1432.0
+
+ Accessory range: 413-879
+ Average: 719.136
+ Median: 732.0
+
+ Unique range: 24-482
+ Average: 266.373
+ Median: 268.0
+
+N=22
+ Core range: 1370-1610
+ Average: 1431.77
+ Median: 1429.0
+
+ Accessory range: 413-889
+ Average: 730.522
+ Median: 741.0
+
+ Unique range: 23-482
+ Average: 270.356
+ Median: 274.0
+
+N=23
+ Core range: 1370-1596
+ Average: 1428.703
+ Median: 1427.0
+
+ Accessory range: 444-897
+ Average: 741.233
+ Median: 750.0
+
+ Unique range: 23-479
+ Average: 273.743
+ Median: 278.0
+
+N=24
+ Core range: 1370-1596
+ Average: 1426.025
+ Median: 1424.0
+
+ Accessory range: 444-912
+ Average: 751.72
+ Median: 759.0
+
+ Unique range: 23-479
+ Average: 277.907
+ Median: 282.0
+
+N=25
+ Core range: 1370-1589
+ Average: 1423.201
+ Median: 1422.0
+
+ Accessory range: 445-912
+ Average: 760.981
+ Median: 768.0
+
+ Unique range: 32-479
+ Average: 282.187
+ Median: 287.0
+
+N=26
+ Core range: 1370-1589
+ Average: 1420.594
+ Median: 1420.0
+
+ Accessory range: 445-912
+ Average: 769.654
+ Median: 776.0
+
+ Unique range: 31-479
+ Average: 285.728
+ Median: 290.0
+
+N=27
+ Core range: 1370-1588
+ Average: 1417.946
+ Median: 1418.0
+
+ Accessory range: 448-920
+ Average: 778.466
+ Median: 785.0
+
+ Unique range: 37-479
+ Average: 290.131
+ Median: 294.0
+
+N=28
+ Core range: 1370-1587
+ Average: 1415.491
+ Median: 1415.0
+
+ Accessory range: 449-935
+ Average: 786.186
+ Median: 792.0
+
+ Unique range: 39-481
+ Average: 294.782
+ Median: 298.0
+
+N=29
+ Core range: 1370-1587
+ Average: 1413.075
+ Median: 1412.0
+
+ Accessory range: 450-935
+ Average: 794.569
+ Median: 800.0
+
+ Unique range: 39-483
+ Average: 299.571
+ Median: 303.0
+
+N=30
+ Core range: 1370-1587
+ Average: 1410.695
+ Median: 1410.0
+
+ Accessory range: 450-944
+ Average: 803.961
+ Median: 808.0
+
+ Unique range: 39-482
+ Average: 303.031
+ Median: 308.0
+
+N=31
+ Core range: 1370-1587
+ Average: 1408.471
+ Median: 1408.0
+
+ Accessory range: 451-946
+ Average: 812.271
+ Median: 815.0
+
+ Unique range: 42-482
+ Average: 307.514
+ Median: 314.0
+
+N=32
+ Core range: 1370-1587
+ Average: 1406.218
+ Median: 1406.0
+
+ Accessory range: 451-952
+ Average: 820.823
+ Median: 823.0
+
+ Unique range: 42-481
+ Average: 312.283
+ Median: 319.0
+
+N=33
+ Core range: 1369-1474
+ Average: 1404.316
+ Median: 1404.0
+
+ Accessory range: 569-953
+ Average: 828.286
+ Median: 831.0
+
+ Unique range: 48-481
+ Average: 316.06
+ Median: 323.0
+
+N=34
+ Core range: 1369-1474
+ Average: 1402.294
+ Median: 1401.0
+
+ Accessory range: 569-964
+ Average: 835.974
+ Median: 839.0
+
+ Unique range: 48-482
+ Average: 319.681
+ Median: 326.0
+
+N=35
+ Core range: 1368-1473
+ Average: 1400.344
+ Median: 1399.0
+
+ Accessory range: 575-966
+ Average: 843.123
+ Median: 846.0
+
+ Unique range: 48-482
+ Average: 323.746
+ Median: 330.0
+
+N=36
+ Core range: 1368-1473
+ Average: 1398.349
+ Median: 1397.0
+
+ Accessory range: 586-969
+ Average: 850.547
+ Median: 855.0
+
+ Unique range: 48-482
+ Average: 327.8
+ Median: 335.0
+
+N=37
+ Core range: 1368-1451
+ Average: 1396.647
+ Median: 1395.0
+
+ Accessory range: 670-970
+ Average: 857.18
+ Median: 861.0
+
+ Unique range: 48-484
+ Average: 331.566
+ Median: 338.0
+
+N=38
+ Core range: 1367-1446
+ Average: 1394.886
+ Median: 1393.0
+
+ Accessory range: 694-970
+ Average: 863.781
+ Median: 867.0
+
+ Unique range: 93-481
+ Average: 336.014
+ Median: 343.0
+
+N=39
+ Core range: 1367-1445
+ Average: 1393.194
+ Median: 1391.0
+
+ Accessory range: 694-970
+ Average: 870.717
+ Median: 873.0
+
+ Unique range: 94-483
+ Average: 339.845
+ Median: 349.0
+
+N=40
+ Core range: 1367-1445
+ Average: 1391.479
+ Median: 1389.0
+
+ Accessory range: 695-971
+ Average: 877.137
+ Median: 881.0
+
+ Unique range: 93-483
+ Average: 343.811
+ Median: 351.0
+
+N=41
+ Core range: 1367-1444
+ Average: 1389.972
+ Median: 1387.0
+
+ Accessory range: 695-974
+ Average: 883.182
+ Median: 888.0
+
+ Unique range: 93-483
+ Average: 347.39
+ Median: 354.0
+
+N=42
+ Core range: 1366-1434
+ Average: 1388.335
+ Median: 1385.0
+
+ Accessory range: 695-974
+ Average: 889.732
+ Median: 894.0
+
+ Unique range: 95-483
+ Average: 350.526
+ Median: 357.0
+
+N=43
+ Core range: 1366-1429
+ Average: 1386.624
+ Median: 1383.0
+
+ Accessory range: 738-974
+ Average: 895.872
+ Median: 898.0
+
+ Unique range: 95-483
+ Average: 354.134
+ Median: 363.0
+
+N=44
+ Core range: 1366-1425
+ Average: 1384.921
+ Median: 1382.0
+
+ Accessory range: 763-974
+ Average: 902.223
+ Median: 905.0
+
+ Unique range: 94-483
+ Average: 357.845
+ Median: 369.0
+
+N=45
+ Core range: 1366-1425
+ Average: 1383.493
+ Median: 1380.0
+
+ Accessory range: 764-974
+ Average: 908.277
+ Median: 912.0
+
+ Unique range: 94-482
+ Average: 361.423
+ Median: 376.0
+
+N=46
+ Core range: 1366-1424
+ Average: 1381.874
+ Median: 1379.0
+
+ Accessory range: 764-976
+ Average: 914.778
+ Median: 918.0
+
+ Unique range: 97-482
+ Average: 364.105
+ Median: 381.0
+
+N=47
+ Core range: 1366-1424
+ Average: 1380.286
+ Median: 1377.0
+
+ Accessory range: 788-976
+ Average: 921.068
+ Median: 925.0
+
+ Unique range: 99-481
+ Average: 367.017
+ Median: 386.0
+
+N=48
+ Core range: 1366-1424
+ Average: 1378.731
+ Median: 1376.0
+
+ Accessory range: 795-977
+ Average: 926.859
+ Median: 930.0
+
+ Unique range: 99-475
+ Average: 370.124
+ Median: 390.0
+
+N=49
+ Core range: 1366-1417
+ Average: 1377.239
+ Median: 1374.0
+
+ Accessory range: 807-978
+ Average: 932.507
+ Median: 937.0
+
+ Unique range: 187-468
+ Average: 372.791
+ Median: 392.0
+
+N=50
+ Core range: 1366-1415
+ Average: 1375.817
+ Median: 1372.0
+
+ Accessory range: 827-978
+ Average: 938.758
+ Median: 943.0
+
+ Unique range: 185-484
+ Average: 375.845
+ Median: 395.0
+
+N=51
+ Core range: 1366-1414
+ Average: 1374.335
+ Median: 1370.0
+
+ Accessory range: 828-978
+ Average: 944.237
+ Median: 948.0
+
+ Unique range: 183-484
+ Average: 379.767
+ Median: 396.0
+
+N=52
+ Core range: 1366-1409
+ Average: 1372.887
+ Median: 1369.0
+
+ Accessory range: 829-978
+ Average: 950.043
+ Median: 952.0
+
+ Unique range: 213-456
+ Average: 383.461
+ Median: 398.0
+
+N=53
+ Core range: 1366-1405
+ Average: 1371.465
+ Median: 1368.0
+
+ Accessory range: 855-978
+ Average: 955.896
+ Median: 963.0
+
+ Unique range: 215-451
+ Average: 386.28
+ Median: 399.0
+
+N=54
+ Core range: 1366-1405
+ Average: 1369.879
+ Median: 1367.0
+
+ Accessory range: 878-978
+ Average: 961.524
+ Median: 972.0
+
+ Unique range: 218-451
+ Average: 388.753
+ Median: 399.0
+
+N=55
+ Core range: 1366-1393
+ Average: 1368.54
+ Median: 1367.0
+
+ Accessory range: 894-978
+ Average: 967.312
+ Median: 976.0
+
+ Unique range: 218-451
+ Average: 391.924
+ Median: 400.0
+
+N=56
+ Core range: 1366-1392
+ Average: 1367.334
+ Median: 1366.0
+
+ Accessory range: 933-978
+ Average: 972.299
+ Median: 978.0
+
+ Unique range: 293-444
+ Average: 396.175
+ Median: 400.0
+
+N=57
+ Core range: 1366-1366
+ Average: 1366.0
+ Median: 1366.0
+
+ Accessory range: 978-978
+ Average: 978.0
+ Median: 978.0
+
+ Unique range: 400-400
+ Average: 400.0
+ Median: 400.0
+

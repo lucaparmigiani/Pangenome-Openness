@@ -1,0 +1,10 @@
+Genome_no.	Organism_name	Filename
+1	Organism1	GCF_000007925.1_ASM792v1_genomic.fasta
+2	Organism2	GCF_000011465.1_ASM1146v1_genomic.fasta
+3	Organism3	GCF_000012465.1_ASM1246v1_genomic.fasta
+4	Organism4	GCF_000012645.1_ASM1264v1_genomic.fasta
+5	Organism5	GCF_000015645.1_ASM1564v1_genomic.fasta
+6	Organism6	GCF_000015665.1_ASM1566v1_genomic.fasta
+7	Organism7	GCF_000015685.1_ASM1568v1_genomic.fasta
+8	Organism8	GCF_000015965.1_ASM1596v1_genomic.fasta
+9	Organism9	GCF_000018065.1_ASM1806v1_genomic.fasta

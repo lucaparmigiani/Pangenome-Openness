@@ -1,0 +1,515 @@
+#Each genome is added to the pangenome of the remaining genomes to identify the number of groups gained (accessory, unique) or lost (core, unique)
+
+Average gain/loss when adding the 83th genome, standard deviation, range 
+Core: -2.43, 4.69, -8 0
+Accessory: 61.83, 77.03, 100 20
+Unique: -4.43, 106.28, -82 18
+
+Median gain/loss when adding the 83th genome
+Core: 0.0
+Accessory: 44.0
+Unique: 12.0
+
+Highest unique gain 349 was caused by genome 7
+Highest core loss -29 was caused by genome 11
+
+
+#Group gain/loss per genome
+Genome 1
+Distinct genes: 5372 (5541 total)
+ Core loss -8
+ Accessory gain 100
+ Unique gain/loss 18/100
+
+Genome 2
+Distinct genes: 5379 (5492 total)
+ Core loss -6
+ Accessory gain 64
+ Unique gain/loss 127/64
+
+Genome 3
+Distinct genes: 5714 (5857 total)
+ Core loss -1
+ Accessory gain 255
+ Unique gain/loss 3/255
+
+Genome 4
+Distinct genes: 5400 (5533 total)
+ Core loss -5
+ Accessory gain 43
+ Unique gain/loss 140/43
+
+Genome 5
+Distinct genes: 5291 (5348 total)
+ Core loss 0
+ Accessory gain 12
+ Unique gain/loss 41/12
+
+Genome 6
+Distinct genes: 5518 (5659 total)
+ Core loss 0
+ Accessory gain 93
+ Unique gain/loss 45/93
+
+Genome 7
+Distinct genes: 5650 (5733 total)
+ Core loss -7
+ Accessory gain 50
+ Unique gain/loss 349/50
+
+Genome 8
+Distinct genes: 5567 (5674 total)
+ Core loss -5
+ Accessory gain 46
+ Unique gain/loss 104/46
+
+Genome 9
+Distinct genes: 5435 (5502 total)
+ Core loss 0
+ Accessory gain 0
+ Unique gain/loss 0/0
+
+Genome 10
+Distinct genes: 5419 (5598 total)
+ Core loss -4
+ Accessory gain 37
+ Unique gain/loss 102/37
+
+Genome 11
+Distinct genes: 5267 (5354 total)
+ Core loss -29
+ Accessory gain 13
+ Unique gain/loss 28/13
+
+Genome 12
+Distinct genes: 5460 (5589 total)
+ Core loss -1
+ Accessory gain 79
+ Unique gain/loss 28/79
+
+Genome 13
+Distinct genes: 5327 (5423 total)
+ Core loss -10
+ Accessory gain 59
+ Unique gain/loss 114/59
+
+Genome 14
+Distinct genes: 5522 (5611 total)
+ Core loss -5
+ Accessory gain 47
+ Unique gain/loss 48/47
+
+Genome 15
+Distinct genes: 5600 (5787 total)
+ Core loss 0
+ Accessory gain 150
+ Unique gain/loss 3/150
+
+Genome 16
+Distinct genes: 5609 (5701 total)
+ Core loss -1
+ Accessory gain 155
+ Unique gain/loss 0/155
+
+Genome 17
+Distinct genes: 5436 (5508 total)
+ Core loss 0
+ Accessory gain 1
+ Unique gain/loss 0/1
+
+Genome 18
+Distinct genes: 5552 (5633 total)
+ Core loss -1
+ Accessory gain 42
+ Unique gain/loss 106/42
+
+Genome 19
+Distinct genes: 5629 (5697 total)
+ Core loss 0
+ Accessory gain 0
+ Unique gain/loss 0/0
+
+Genome 20
+Distinct genes: 5599 (5727 total)
+ Core loss 0
+ Accessory gain 150
+ Unique gain/loss 4/150
+
+Genome 21
+Distinct genes: 5234 (5322 total)
+ Core loss -9
+ Accessory gain 34
+ Unique gain/loss 61/34
+
+Genome 22
+Distinct genes: 6017 (6165 total)
+ Core loss 0
+ Accessory gain 404
+ Unique gain/loss 5/404
+
+Genome 23
+Distinct genes: 5717 (5868 total)
+ Core loss 0
+ Accessory gain 253
+ Unique gain/loss 6/253
+
+Genome 24
+Distinct genes: 5629 (5697 total)
+ Core loss 0
+ Accessory gain 0
+ Unique gain/loss 0/0
+
+Genome 25
+Distinct genes: 5241 (5291 total)
+ Core loss 0
+ Accessory gain 14
+ Unique gain/loss 29/14
+
+Genome 26
+Distinct genes: 5292 (5346 total)
+ Core loss 0
+ Accessory gain 19
+ Unique gain/loss 83/19
+
+Genome 27
+Distinct genes: 5526 (5673 total)
+ Core loss 0
+ Accessory gain 27
+ Unique gain/loss 111/27
+
+Genome 28
+Distinct genes: 5830 (5968 total)
+ Core loss 0
+ Accessory gain 2
+ Unique gain/loss 0/2
+
+Genome 29
+Distinct genes: 5831 (5964 total)
+ Core loss 0
+ Accessory gain 0
+ Unique gain/loss 2/0
+
+Genome 30
+Distinct genes: 5792 (6006 total)
+ Core loss -19
+ Accessory gain 112
+ Unique gain/loss 185/112
+
+Genome 31
+Distinct genes: 5262 (5358 total)
+ Core loss 0
+ Accessory gain 9
+ Unique gain/loss 41/9
+
+Genome 32
+Distinct genes: 5553 (5737 total)
+ Core loss -4
+ Accessory gain 60
+ Unique gain/loss 113/60
+
+Genome 33
+Distinct genes: 5284 (5423 total)
+ Core loss 0
+ Accessory gain 3
+ Unique gain/loss 15/3
+
+Genome 34
+Distinct genes: 5267 (5401 total)
+ Core loss 0
+ Accessory gain 4
+ Unique gain/loss 4/4
+
+Genome 35
+Distinct genes: 5267 (5384 total)
+ Core loss 0
+ Accessory gain 3
+ Unique gain/loss 3/3
+
+Genome 36
+Distinct genes: 5357 (5426 total)
+ Core loss -1
+ Accessory gain 4
+ Unique gain/loss 35/4
+
+Genome 37
+Distinct genes: 5200 (5280 total)
+ Core loss 0
+ Accessory gain 9
+ Unique gain/loss 13/9
+
+Genome 38
+Distinct genes: 5321 (5420 total)
+ Core loss -14
+ Accessory gain 77
+ Unique gain/loss 134/77
+
+Genome 39
+Distinct genes: 5248 (5309 total)
+ Core loss 0
+ Accessory gain 9
+ Unique gain/loss 32/9
+
+Genome 40
+Distinct genes: 5508 (5610 total)
+ Core loss -2
+ Accessory gain 40
+ Unique gain/loss 43/40
+
+Genome 41
+Distinct genes: 5498 (5576 total)
+ Core loss 0
+ Accessory gain 100
+ Unique gain/loss 44/100
+
+Genome 42
+Distinct genes: 5575 (5736 total)
+ Core loss -3
+ Accessory gain 45
+ Unique gain/loss 121/45
+
+Genome 43
+Distinct genes: 5802 (6009 total)
+ Core loss -2
+ Accessory gain 44
+ Unique gain/loss 142/44
+
+Genome 44
+Distinct genes: 5231 (5335 total)
+ Core loss -10
+ Accessory gain 44
+ Unique gain/loss 121/44
+
+Genome 45
+Distinct genes: 5609 (5909 total)
+ Core loss -1
+ Accessory gain 47
+ Unique gain/loss 314/47
+
+Genome 46
+Distinct genes: 5292 (5373 total)
+ Core loss -3
+ Accessory gain 27
+ Unique gain/loss 33/27
+
+Genome 47
+Distinct genes: 5292 (5453 total)
+ Core loss -2
+ Accessory gain 16
+ Unique gain/loss 41/16
+
+Genome 48
+Distinct genes: 5802 (5965 total)
+ Core loss -1
+ Accessory gain 46
+ Unique gain/loss 84/46
+
+Genome 49
+Distinct genes: 5351 (5423 total)
+ Core loss -1
+ Accessory gain 22
+ Unique gain/loss 70/22
+
+Genome 50
+Distinct genes: 5194 (5250 total)
+ Core loss 0
+ Accessory gain 19
+ Unique gain/loss 13/19
+
+Genome 51
+Distinct genes: 5186 (5250 total)
+ Core loss -6
+ Accessory gain 41
+ Unique gain/loss 55/41
+
+Genome 52
+Distinct genes: 5170 (5216 total)
+ Core loss 0
+ Accessory gain 6
+ Unique gain/loss 10/6
+
+Genome 53
+Distinct genes: 5363 (5434 total)
+ Core loss 0
+ Accessory gain 100
+ Unique gain/loss 3/100
+
+Genome 54
+Distinct genes: 5710 (5837 total)
+ Core loss 0
+ Accessory gain 54
+ Unique gain/loss 65/54
+
+Genome 55
+Distinct genes: 5594 (5681 total)
+ Core loss 0
+ Accessory gain 25
+ Unique gain/loss 64/25
+
+Genome 56
+Distinct genes: 5777 (5905 total)
+ Core loss -2
+ Accessory gain 58
+ Unique gain/loss 96/58
+
+Genome 57
+Distinct genes: 5779 (5901 total)
+ Core loss 0
+ Accessory gain 61
+ Unique gain/loss 5/61
+
+Genome 58
+Distinct genes: 5996 (6190 total)
+ Core loss 0
+ Accessory gain 52
+ Unique gain/loss 152/52
+
+Genome 59
+Distinct genes: 5272 (5395 total)
+ Core loss -1
+ Accessory gain 30
+ Unique gain/loss 27/30
+
+Genome 60
+Distinct genes: 5768 (5926 total)
+ Core loss -1
+ Accessory gain 61
+ Unique gain/loss 5/61
+
+Genome 61
+Distinct genes: 5510 (5598 total)
+ Core loss -2
+ Accessory gain 24
+ Unique gain/loss 44/24
+
+Genome 62
+Distinct genes: 5632 (5721 total)
+ Core loss 0
+ Accessory gain 27
+ Unique gain/loss 1/27
+
+Genome 63
+Distinct genes: 5525 (5618 total)
+ Core loss 0
+ Accessory gain 36
+ Unique gain/loss 96/36
+
+Genome 64
+Distinct genes: 6015 (6155 total)
+ Core loss 0
+ Accessory gain 405
+ Unique gain/loss 3/405
+
+Genome 65
+Distinct genes: 5863 (6039 total)
+ Core loss -1
+ Accessory gain 191
+ Unique gain/loss 2/191
+
+Genome 66
+Distinct genes: 5865 (6038 total)
+ Core loss -1
+ Accessory gain 191
+ Unique gain/loss 0/191
+
+Genome 67
+Distinct genes: 5630 (5698 total)
+ Core loss -1
+ Accessory gain 0
+ Unique gain/loss 0/0
+
+Genome 68
+Distinct genes: 5628 (5695 total)
+ Core loss 0
+ Accessory gain 0
+ Unique gain/loss 0/0
+
+Genome 69
+Distinct genes: 5622 (5740 total)
+ Core loss 0
+ Accessory gain 157
+ Unique gain/loss 4/157
+
+Genome 70
+Distinct genes: 5613 (5698 total)
+ Core loss 0
+ Accessory gain 66
+ Unique gain/loss 1/66
+
+Genome 71
+Distinct genes: 5617 (5702 total)
+ Core loss 0
+ Accessory gain 68
+ Unique gain/loss 4/68
+
+Genome 72
+Distinct genes: 5604 (5776 total)
+ Core loss -2
+ Accessory gain 99
+ Unique gain/loss 53/99
+
+Genome 73
+Distinct genes: 5435 (5502 total)
+ Core loss 0
+ Accessory gain 0
+ Unique gain/loss 0/0
+
+Genome 74
+Distinct genes: 5136 (5173 total)
+ Core loss -15
+ Accessory gain 4
+ Unique gain/loss 32/4
+
+Genome 75
+Distinct genes: 5828 (5959 total)
+ Core loss 0
+ Accessory gain 1
+ Unique gain/loss 0/1
+
+Genome 76
+Distinct genes: 6009 (6212 total)
+ Core loss -3
+ Accessory gain 154
+ Unique gain/loss 228/154
+
+Genome 77
+Distinct genes: 5716 (5853 total)
+ Core loss 0
+ Accessory gain 44
+ Unique gain/loss 16/44
+
+Genome 78
+Distinct genes: 5639 (5779 total)
+ Core loss 0
+ Accessory gain 71
+ Unique gain/loss 138/71
+
+Genome 79
+Distinct genes: 5162 (5264 total)
+ Core loss -5
+ Accessory gain 18
+ Unique gain/loss 87/18
+
+Genome 80
+Distinct genes: 5451 (5537 total)
+ Core loss -5
+ Accessory gain 56
+ Unique gain/loss 145/56
+
+Genome 81
+Distinct genes: 5418 (5466 total)
+ Core loss 0
+ Accessory gain 44
+ Unique gain/loss 92/44
+
+Genome 82
+Distinct genes: 5800 (5945 total)
+ Core loss -2
+ Accessory gain 79
+ Unique gain/loss 140/79
+
+Genome 83
+Distinct genes: 5627 (5706 total)
+ Core loss 0
+ Accessory gain 20
+ Unique gain/loss 38/20
+

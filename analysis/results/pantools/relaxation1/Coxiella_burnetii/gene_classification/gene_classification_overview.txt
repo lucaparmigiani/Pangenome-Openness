@@ -1,0 +1,158 @@
+Grouping version: 1
+Total genomes: 13
+Total mRNAs: 27320
+Total homology groups: 2932
+Single copy ortholog groups: 1402 47.82%
+
+Core groups: 1481 50.51%
+Accessory groups: 977 33.32%
+Unique groups: 474 16.17%
+
+Average % of genes per class for individual genomes, standard deviation, range
+Core 74.66, 1.10, 71.86-76.91%
+Accessory 23.60, 2.48, 17.06-25.78%
+Unique 1.74, 2.71, 0.00-8.54%
+
+Genome 1
+Total mRNAs: 2080
+Core: 1538 73.94%
+Accessory: 525 25.24%
+Unique: 17 0.82%
+
+Total groups: 2006
+Core: 1481
+Accessory: 508
+Unique: 17
+
+Genome 2
+Total mRNAs: 2038
+Core: 1526 74.88%
+Accessory: 511 25.07%
+Unique: 1 0.05%
+
+Total groups: 1986
+Core: 1481
+Accessory: 504
+Unique: 1
+
+Genome 3
+Total mRNAs: 2213
+Core: 1702 76.91%
+Accessory: 499 22.55%
+Unique: 12 0.54%
+
+Total groups: 1970
+Core: 1481
+Accessory: 477
+Unique: 12
+
+Genome 4
+Total mRNAs: 2113
+Core: 1582 74.87%
+Accessory: 505 23.90%
+Unique: 26 1.23%
+
+Total groups: 1994
+Core: 1481
+Accessory: 487
+Unique: 26
+
+Genome 5
+Total mRNAs: 2048
+Core: 1528 74.61%
+Accessory: 469 22.90%
+Unique: 51 2.49%
+
+Total groups: 1989
+Core: 1481
+Accessory: 457
+Unique: 51
+
+Genome 6
+Total mRNAs: 2130
+Core: 1585 74.41%
+Accessory: 525 24.65%
+Unique: 20 0.94%
+
+Total groups: 2012
+Core: 1481
+Accessory: 511
+Unique: 20
+
+Genome 7
+Total mRNAs: 2037
+Core: 1526 74.91%
+Accessory: 511 25.09%
+Unique: 0 0.00%
+
+Total groups: 1987
+Core: 1481
+Accessory: 506
+Unique: 0
+
+Genome 8
+Total mRNAs: 2251
+Core: 1698 75.43%
+Accessory: 545 24.21%
+Unique: 8 0.36%
+
+Total groups: 2010
+Core: 1481
+Accessory: 521
+Unique: 8
+
+Genome 9
+Total mRNAs: 2125
+Core: 1583 74.49%
+Accessory: 532 25.04%
+Unique: 10 0.47%
+
+Total groups: 2007
+Core: 1481
+Accessory: 516
+Unique: 10
+
+Genome 10
+Total mRNAs: 2063
+Core: 1562 75.71%
+Accessory: 352 17.06%
+Unique: 149 7.22%
+
+Total groups: 1964
+Core: 1481
+Accessory: 334
+Unique: 149
+
+Genome 11
+Total mRNAs: 2056
+Core: 1526 74.22%
+Accessory: 530 25.78%
+Unique: 0 0.00%
+
+Total groups: 2005
+Core: 1481
+Accessory: 524
+Unique: 0
+
+Genome 12
+Total mRNAs: 2059
+Core: 1530 74.31%
+Accessory: 529 25.69%
+Unique: 0 0.00%
+
+Total groups: 1990
+Core: 1481
+Accessory: 509
+Unique: 0
+
+Genome 13
+Total mRNAs: 2107
+Core: 1514 71.86%
+Accessory: 413 19.60%
+Unique: 180 8.54%
+
+Total groups: 2052
+Core: 1481
+Accessory: 391
+Unique: 180
+

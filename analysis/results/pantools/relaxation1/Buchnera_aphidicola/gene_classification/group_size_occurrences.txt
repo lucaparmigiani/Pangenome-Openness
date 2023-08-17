@@ -1,0 +1,57 @@
+Two overviews of homology group sizes based on number of proteins and number of genomes
+#Group size based on number of proteins, occurrences
+1, 10602
+2, 1320
+3, 135
+4, 1061
+5, 34
+6, 13
+7, 14
+8, 20
+9, 6
+10, 5
+11, 5
+12, 3
+13, 1
+14, 2
+16, 2
+17, 2
+18, 2
+19, 1
+21, 2
+23, 1
+24, 1
+25, 2
+26, 3
+31, 1
+32, 1
+35, 1
+
+
+#Group size based on number of genomes (maximum of 35), occurrences
+1, 10604
+2, 1318
+3, 135
+4, 1068
+5, 27
+6, 13
+7, 14
+8, 20
+9, 7
+10, 4
+11, 5
+12, 3
+13, 1
+14, 2
+16, 2
+17, 2
+18, 2
+19, 1
+21, 2
+23, 1
+24, 1
+25, 2
+26, 3
+31, 1
+32, 1
+35, 1

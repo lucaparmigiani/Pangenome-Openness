@@ -1,0 +1,75 @@
+#Genomes with additional copies compared to other genomes
+#Homology group identifier, number of additional copies compared to the lowest number in a homology group (at least 1).
+
+#Genome 1
+Core
+ 2031248, 2
+
+Accessory
+ 2031373, 3
+ 2031376, 2
+ 2031427, 1
+ 2032049, 2
+ 2032270, 1
+
+#Genome 2
+Core
+ 2031248, 1
+
+Accessory
+ 2033793, 1
+ 2033796, 3
+ 2034303, 1
+
+#Genome 3
+Core
+ 2031248, 1
+
+Accessory
+
+#Genome 4
+Core
+
+Accessory
+
+#Genome 5
+Core
+ 2031248, 2
+
+Accessory
+ 2031372, 3
+ 2031377, 2
+ 2032170, 1
+ 2032171, 2
+ 2032283, 1
+ 2033062, 1
+
+#Genome 6
+Core
+ 2031248, 1
+
+Accessory
+ 2033796, 3
+ 2034716, 1
+
+#Genome 7
+Core
+
+Accessory
+ 2033796, 1
+ 2034716, 1
+
+#Genome 8
+Core
+
+Accessory
+ 2033796, 1
+
+#Genome 9
+Core
+ 2031248, 1
+
+Accessory
+ 2033473, 1
+ 2033474, 1
+ 2033796, 1

@@ -1,0 +1,2732 @@
+Grouping version: 1
+Total genomes: 247
+Total mRNAs: 436565
+Total homology groups: 7138
+Single copy ortholog groups: 965 13.52%
+
+Core groups: 1106 15.49%
+Accessory groups: 4178 58.53%
+Unique groups: 1854 25.97%
+
+Average % of genes per class for individual genomes, standard deviation, range
+Core 63.14, 3.02, 57.11-71.25%
+Accessory 36.44, 3.10, 28.36-42.33%
+Unique 0.43, 0.62, 0.00-4.30%
+
+Genome 1
+Total mRNAs: 1638
+Core: 1113 67.95%
+Accessory: 521 31.81%
+Unique: 4 0.24%
+
+Total groups: 1622
+Core: 1106
+Accessory: 512
+Unique: 4
+
+Genome 2
+Total mRNAs: 1887
+Core: 1115 59.09%
+Accessory: 769 40.75%
+Unique: 3 0.16%
+
+Total groups: 1861
+Core: 1106
+Accessory: 752
+Unique: 3
+
+Genome 3
+Total mRNAs: 1738
+Core: 1114 64.10%
+Accessory: 624 35.90%
+Unique: 0 0.00%
+
+Total groups: 1717
+Core: 1106
+Accessory: 611
+Unique: 0
+
+Genome 4
+Total mRNAs: 1727
+Core: 1113 64.45%
+Accessory: 612 35.44%
+Unique: 2 0.12%
+
+Total groups: 1698
+Core: 1106
+Accessory: 590
+Unique: 2
+
+Genome 5
+Total mRNAs: 1759
+Core: 1112 63.22%
+Accessory: 646 36.73%
+Unique: 1 0.06%
+
+Total groups: 1746
+Core: 1106
+Accessory: 639
+Unique: 1
+
+Genome 6
+Total mRNAs: 1700
+Core: 1110 65.29%
+Accessory: 572 33.65%
+Unique: 18 1.06%
+
+Total groups: 1691
+Core: 1106
+Accessory: 567
+Unique: 18
+
+Genome 7
+Total mRNAs: 1871
+Core: 1115 59.59%
+Accessory: 749 40.03%
+Unique: 7 0.37%
+
+Total groups: 1832
+Core: 1106
+Accessory: 719
+Unique: 7
+
+Genome 8
+Total mRNAs: 1881
+Core: 1114 59.22%
+Accessory: 766 40.72%
+Unique: 1 0.05%
+
+Total groups: 1847
+Core: 1106
+Accessory: 740
+Unique: 1
+
+Genome 9
+Total mRNAs: 1648
+Core: 1113 67.54%
+Accessory: 525 31.86%
+Unique: 10 0.61%
+
+Total groups: 1620
+Core: 1106
+Accessory: 504
+Unique: 10
+
+Genome 10
+Total mRNAs: 1850
+Core: 1113 60.16%
+Accessory: 737 39.84%
+Unique: 0 0.00%
+
+Total groups: 1823
+Core: 1106
+Accessory: 717
+Unique: 0
+
+Genome 11
+Total mRNAs: 1738
+Core: 1114 64.10%
+Accessory: 624 35.90%
+Unique: 0 0.00%
+
+Total groups: 1717
+Core: 1106
+Accessory: 611
+Unique: 0
+
+Genome 12
+Total mRNAs: 1650
+Core: 1112 67.39%
+Accessory: 529 32.06%
+Unique: 9 0.55%
+
+Total groups: 1642
+Core: 1106
+Accessory: 527
+Unique: 9
+
+Genome 13
+Total mRNAs: 1797
+Core: 1113 61.94%
+Accessory: 679 37.79%
+Unique: 5 0.28%
+
+Total groups: 1778
+Core: 1106
+Accessory: 667
+Unique: 5
+
+Genome 14
+Total mRNAs: 1795
+Core: 1112 61.95%
+Accessory: 681 37.94%
+Unique: 2 0.11%
+
+Total groups: 1763
+Core: 1106
+Accessory: 655
+Unique: 2
+
+Genome 15
+Total mRNAs: 1845
+Core: 1113 60.33%
+Accessory: 728 39.46%
+Unique: 4 0.22%
+
+Total groups: 1807
+Core: 1106
+Accessory: 697
+Unique: 4
+
+Genome 16
+Total mRNAs: 1763
+Core: 1111 63.02%
+Accessory: 649 36.81%
+Unique: 3 0.17%
+
+Total groups: 1745
+Core: 1106
+Accessory: 636
+Unique: 3
+
+Genome 17
+Total mRNAs: 1814
+Core: 1113 61.36%
+Accessory: 701 38.64%
+Unique: 0 0.00%
+
+Total groups: 1793
+Core: 1106
+Accessory: 687
+Unique: 0
+
+Genome 18
+Total mRNAs: 1884
+Core: 1114 59.13%
+Accessory: 769 40.82%
+Unique: 1 0.05%
+
+Total groups: 1860
+Core: 1106
+Accessory: 753
+Unique: 1
+
+Genome 19
+Total mRNAs: 1852
+Core: 1115 60.21%
+Accessory: 737 39.79%
+Unique: 0 0.00%
+
+Total groups: 1814
+Core: 1106
+Accessory: 708
+Unique: 0
+
+Genome 20
+Total mRNAs: 1837
+Core: 1114 60.64%
+Accessory: 707 38.49%
+Unique: 16 0.87%
+
+Total groups: 1812
+Core: 1106
+Accessory: 690
+Unique: 16
+
+Genome 21
+Total mRNAs: 1713
+Core: 1114 65.03%
+Accessory: 588 34.33%
+Unique: 11 0.64%
+
+Total groups: 1696
+Core: 1106
+Accessory: 579
+Unique: 11
+
+Genome 22
+Total mRNAs: 1806
+Core: 1112 61.57%
+Accessory: 690 38.21%
+Unique: 4 0.22%
+
+Total groups: 1780
+Core: 1106
+Accessory: 670
+Unique: 4
+
+Genome 23
+Total mRNAs: 1624
+Core: 1112 68.47%
+Accessory: 512 31.53%
+Unique: 0 0.00%
+
+Total groups: 1609
+Core: 1106
+Accessory: 503
+Unique: 0
+
+Genome 24
+Total mRNAs: 1712
+Core: 1113 65.01%
+Accessory: 599 34.99%
+Unique: 0 0.00%
+
+Total groups: 1697
+Core: 1106
+Accessory: 591
+Unique: 0
+
+Genome 25
+Total mRNAs: 1838
+Core: 1112 60.50%
+Accessory: 724 39.39%
+Unique: 2 0.11%
+
+Total groups: 1797
+Core: 1106
+Accessory: 689
+Unique: 2
+
+Genome 26
+Total mRNAs: 1697
+Core: 1115 65.70%
+Accessory: 572 33.71%
+Unique: 10 0.59%
+
+Total groups: 1680
+Core: 1106
+Accessory: 564
+Unique: 10
+
+Genome 27
+Total mRNAs: 1897
+Core: 1115 58.78%
+Accessory: 782 41.22%
+Unique: 0 0.00%
+
+Total groups: 1854
+Core: 1106
+Accessory: 748
+Unique: 0
+
+Genome 28
+Total mRNAs: 1793
+Core: 1113 62.07%
+Accessory: 678 37.81%
+Unique: 2 0.11%
+
+Total groups: 1776
+Core: 1106
+Accessory: 668
+Unique: 2
+
+Genome 29
+Total mRNAs: 1794
+Core: 1114 62.10%
+Accessory: 673 37.51%
+Unique: 7 0.39%
+
+Total groups: 1776
+Core: 1106
+Accessory: 663
+Unique: 7
+
+Genome 30
+Total mRNAs: 1715
+Core: 1113 64.90%
+Accessory: 595 34.69%
+Unique: 7 0.41%
+
+Total groups: 1670
+Core: 1106
+Accessory: 557
+Unique: 7
+
+Genome 31
+Total mRNAs: 1733
+Core: 1114 64.28%
+Accessory: 606 34.97%
+Unique: 13 0.75%
+
+Total groups: 1716
+Core: 1106
+Accessory: 597
+Unique: 13
+
+Genome 32
+Total mRNAs: 1887
+Core: 1115 59.09%
+Accessory: 772 40.91%
+Unique: 0 0.00%
+
+Total groups: 1861
+Core: 1106
+Accessory: 755
+Unique: 0
+
+Genome 33
+Total mRNAs: 1821
+Core: 1112 61.07%
+Accessory: 709 38.93%
+Unique: 0 0.00%
+
+Total groups: 1808
+Core: 1106
+Accessory: 702
+Unique: 0
+
+Genome 34
+Total mRNAs: 1623
+Core: 1113 68.58%
+Accessory: 510 31.42%
+Unique: 0 0.00%
+
+Total groups: 1607
+Core: 1106
+Accessory: 501
+Unique: 0
+
+Genome 35
+Total mRNAs: 1900
+Core: 1113 58.58%
+Accessory: 786 41.37%
+Unique: 1 0.05%
+
+Total groups: 1860
+Core: 1106
+Accessory: 753
+Unique: 1
+
+Genome 36
+Total mRNAs: 1679
+Core: 1113 66.29%
+Accessory: 557 33.17%
+Unique: 9 0.54%
+
+Total groups: 1655
+Core: 1106
+Accessory: 540
+Unique: 9
+
+Genome 37
+Total mRNAs: 1908
+Core: 1114 58.39%
+Accessory: 794 41.61%
+Unique: 0 0.00%
+
+Total groups: 1870
+Core: 1106
+Accessory: 764
+Unique: 0
+
+Genome 38
+Total mRNAs: 1807
+Core: 1114 61.65%
+Accessory: 676 37.41%
+Unique: 17 0.94%
+
+Total groups: 1756
+Core: 1106
+Accessory: 633
+Unique: 17
+
+Genome 39
+Total mRNAs: 1763
+Core: 1112 63.07%
+Accessory: 651 36.93%
+Unique: 0 0.00%
+
+Total groups: 1743
+Core: 1106
+Accessory: 637
+Unique: 0
+
+Genome 40
+Total mRNAs: 1781
+Core: 1113 62.49%
+Accessory: 651 36.55%
+Unique: 17 0.95%
+
+Total groups: 1765
+Core: 1106
+Accessory: 642
+Unique: 17
+
+Genome 41
+Total mRNAs: 1863
+Core: 1112 59.69%
+Accessory: 749 40.20%
+Unique: 2 0.11%
+
+Total groups: 1798
+Core: 1106
+Accessory: 690
+Unique: 2
+
+Genome 42
+Total mRNAs: 1625
+Core: 1112 68.43%
+Accessory: 513 31.57%
+Unique: 0 0.00%
+
+Total groups: 1611
+Core: 1106
+Accessory: 505
+Unique: 0
+
+Genome 43
+Total mRNAs: 1892
+Core: 1114 58.88%
+Accessory: 775 40.96%
+Unique: 3 0.16%
+
+Total groups: 1859
+Core: 1106
+Accessory: 750
+Unique: 3
+
+Genome 44
+Total mRNAs: 1779
+Core: 1112 62.51%
+Accessory: 642 36.09%
+Unique: 25 1.41%
+
+Total groups: 1767
+Core: 1106
+Accessory: 636
+Unique: 25
+
+Genome 45
+Total mRNAs: 1907
+Core: 1114 58.42%
+Accessory: 792 41.53%
+Unique: 1 0.05%
+
+Total groups: 1869
+Core: 1106
+Accessory: 762
+Unique: 1
+
+Genome 46
+Total mRNAs: 1733
+Core: 1113 64.22%
+Accessory: 578 33.35%
+Unique: 42 2.42%
+
+Total groups: 1720
+Core: 1106
+Accessory: 572
+Unique: 42
+
+Genome 47
+Total mRNAs: 1766
+Core: 1113 63.02%
+Accessory: 652 36.92%
+Unique: 1 0.06%
+
+Total groups: 1745
+Core: 1106
+Accessory: 638
+Unique: 1
+
+Genome 48
+Total mRNAs: 1814
+Core: 1122 61.85%
+Accessory: 648 35.72%
+Unique: 44 2.43%
+
+Total groups: 1786
+Core: 1106
+Accessory: 636
+Unique: 44
+
+Genome 49
+Total mRNAs: 1797
+Core: 1114 61.99%
+Accessory: 683 38.01%
+Unique: 0 0.00%
+
+Total groups: 1780
+Core: 1106
+Accessory: 674
+Unique: 0
+
+Genome 50
+Total mRNAs: 1687
+Core: 1114 66.03%
+Accessory: 554 32.84%
+Unique: 19 1.13%
+
+Total groups: 1671
+Core: 1106
+Accessory: 546
+Unique: 19
+
+Genome 51
+Total mRNAs: 1805
+Core: 1112 61.61%
+Accessory: 693 38.39%
+Unique: 0 0.00%
+
+Total groups: 1793
+Core: 1106
+Accessory: 687
+Unique: 0
+
+Genome 52
+Total mRNAs: 1807
+Core: 1112 61.54%
+Accessory: 687 38.02%
+Unique: 8 0.44%
+
+Total groups: 1738
+Core: 1106
+Accessory: 624
+Unique: 8
+
+Genome 53
+Total mRNAs: 1687
+Core: 1115 66.09%
+Accessory: 568 33.67%
+Unique: 4 0.24%
+
+Total groups: 1654
+Core: 1106
+Accessory: 544
+Unique: 4
+
+Genome 54
+Total mRNAs: 1773
+Core: 1112 62.72%
+Accessory: 654 36.89%
+Unique: 7 0.39%
+
+Total groups: 1749
+Core: 1106
+Accessory: 636
+Unique: 7
+
+Genome 55
+Total mRNAs: 1628
+Core: 1113 68.37%
+Accessory: 507 31.14%
+Unique: 8 0.49%
+
+Total groups: 1606
+Core: 1106
+Accessory: 492
+Unique: 8
+
+Genome 56
+Total mRNAs: 1793
+Core: 1113 62.07%
+Accessory: 679 37.87%
+Unique: 1 0.06%
+
+Total groups: 1757
+Core: 1106
+Accessory: 650
+Unique: 1
+
+Genome 57
+Total mRNAs: 1760
+Core: 1112 63.18%
+Accessory: 645 36.65%
+Unique: 3 0.17%
+
+Total groups: 1745
+Core: 1106
+Accessory: 636
+Unique: 3
+
+Genome 58
+Total mRNAs: 1706
+Core: 1113 65.24%
+Accessory: 592 34.70%
+Unique: 1 0.06%
+
+Total groups: 1685
+Core: 1106
+Accessory: 578
+Unique: 1
+
+Genome 59
+Total mRNAs: 1733
+Core: 1112 64.17%
+Accessory: 614 35.43%
+Unique: 7 0.40%
+
+Total groups: 1718
+Core: 1106
+Accessory: 605
+Unique: 7
+
+Genome 60
+Total mRNAs: 1885
+Core: 1115 59.15%
+Accessory: 769 40.80%
+Unique: 1 0.05%
+
+Total groups: 1857
+Core: 1106
+Accessory: 750
+Unique: 1
+
+Genome 61
+Total mRNAs: 1830
+Core: 1114 60.87%
+Accessory: 716 39.13%
+Unique: 0 0.00%
+
+Total groups: 1813
+Core: 1106
+Accessory: 707
+Unique: 0
+
+Genome 62
+Total mRNAs: 1626
+Core: 1113 68.45%
+Accessory: 512 31.49%
+Unique: 1 0.06%
+
+Total groups: 1606
+Core: 1106
+Accessory: 499
+Unique: 1
+
+Genome 63
+Total mRNAs: 1708
+Core: 1112 65.11%
+Accessory: 581 34.02%
+Unique: 15 0.88%
+
+Total groups: 1692
+Core: 1106
+Accessory: 571
+Unique: 15
+
+Genome 64
+Total mRNAs: 1689
+Core: 1112 65.84%
+Accessory: 568 33.63%
+Unique: 9 0.53%
+
+Total groups: 1676
+Core: 1106
+Accessory: 561
+Unique: 9
+
+Genome 65
+Total mRNAs: 1853
+Core: 1112 60.01%
+Accessory: 723 39.02%
+Unique: 18 0.97%
+
+Total groups: 1832
+Core: 1106
+Accessory: 708
+Unique: 18
+
+Genome 66
+Total mRNAs: 1767
+Core: 1113 62.99%
+Accessory: 653 36.96%
+Unique: 1 0.06%
+
+Total groups: 1746
+Core: 1106
+Accessory: 639
+Unique: 1
+
+Genome 67
+Total mRNAs: 1828
+Core: 1112 60.83%
+Accessory: 674 36.87%
+Unique: 42 2.30%
+
+Total groups: 1797
+Core: 1106
+Accessory: 649
+Unique: 42
+
+Genome 68
+Total mRNAs: 1850
+Core: 1113 60.16%
+Accessory: 735 39.73%
+Unique: 2 0.11%
+
+Total groups: 1824
+Core: 1106
+Accessory: 716
+Unique: 2
+
+Genome 69
+Total mRNAs: 1711
+Core: 1112 64.99%
+Accessory: 590 34.48%
+Unique: 9 0.53%
+
+Total groups: 1689
+Core: 1106
+Accessory: 574
+Unique: 9
+
+Genome 70
+Total mRNAs: 1785
+Core: 1113 62.35%
+Accessory: 672 37.65%
+Unique: 0 0.00%
+
+Total groups: 1756
+Core: 1106
+Accessory: 650
+Unique: 0
+
+Genome 71
+Total mRNAs: 1890
+Core: 1113 58.89%
+Accessory: 775 41.01%
+Unique: 2 0.11%
+
+Total groups: 1864
+Core: 1106
+Accessory: 756
+Unique: 2
+
+Genome 72
+Total mRNAs: 1854
+Core: 1112 59.98%
+Accessory: 729 39.32%
+Unique: 13 0.70%
+
+Total groups: 1840
+Core: 1106
+Accessory: 721
+Unique: 13
+
+Genome 73
+Total mRNAs: 1784
+Core: 1113 62.39%
+Accessory: 666 37.33%
+Unique: 5 0.28%
+
+Total groups: 1758
+Core: 1106
+Accessory: 647
+Unique: 5
+
+Genome 74
+Total mRNAs: 1650
+Core: 1113 67.45%
+Accessory: 531 32.18%
+Unique: 6 0.36%
+
+Total groups: 1632
+Core: 1106
+Accessory: 520
+Unique: 6
+
+Genome 75
+Total mRNAs: 1738
+Core: 1114 64.10%
+Accessory: 619 35.62%
+Unique: 5 0.29%
+
+Total groups: 1718
+Core: 1106
+Accessory: 607
+Unique: 5
+
+Genome 76
+Total mRNAs: 1659
+Core: 1112 67.03%
+Accessory: 534 32.19%
+Unique: 13 0.78%
+
+Total groups: 1629
+Core: 1106
+Accessory: 510
+Unique: 13
+
+Genome 77
+Total mRNAs: 1825
+Core: 1112 60.93%
+Accessory: 711 38.96%
+Unique: 2 0.11%
+
+Total groups: 1810
+Core: 1106
+Accessory: 702
+Unique: 2
+
+Genome 78
+Total mRNAs: 1611
+Core: 1113 69.09%
+Accessory: 480 29.80%
+Unique: 18 1.12%
+
+Total groups: 1593
+Core: 1106
+Accessory: 469
+Unique: 18
+
+Genome 79
+Total mRNAs: 1681
+Core: 1112 66.15%
+Accessory: 569 33.85%
+Unique: 0 0.00%
+
+Total groups: 1664
+Core: 1106
+Accessory: 558
+Unique: 0
+
+Genome 80
+Total mRNAs: 1820
+Core: 1114 61.21%
+Accessory: 703 38.63%
+Unique: 3 0.16%
+
+Total groups: 1804
+Core: 1106
+Accessory: 695
+Unique: 3
+
+Genome 81
+Total mRNAs: 1711
+Core: 1112 64.99%
+Accessory: 579 33.84%
+Unique: 20 1.17%
+
+Total groups: 1692
+Core: 1106
+Accessory: 566
+Unique: 20
+
+Genome 82
+Total mRNAs: 1784
+Core: 1115 62.50%
+Accessory: 657 36.83%
+Unique: 12 0.67%
+
+Total groups: 1764
+Core: 1106
+Accessory: 646
+Unique: 12
+
+Genome 83
+Total mRNAs: 1745
+Core: 1112 63.72%
+Accessory: 591 33.87%
+Unique: 42 2.41%
+
+Total groups: 1736
+Core: 1106
+Accessory: 588
+Unique: 42
+
+Genome 84
+Total mRNAs: 1751
+Core: 1114 63.62%
+Accessory: 636 36.32%
+Unique: 1 0.06%
+
+Total groups: 1730
+Core: 1106
+Accessory: 623
+Unique: 1
+
+Genome 85
+Total mRNAs: 1883
+Core: 1115 59.21%
+Accessory: 767 40.73%
+Unique: 1 0.05%
+
+Total groups: 1858
+Core: 1106
+Accessory: 751
+Unique: 1
+
+Genome 86
+Total mRNAs: 1783
+Core: 1115 62.54%
+Accessory: 664 37.24%
+Unique: 4 0.22%
+
+Total groups: 1763
+Core: 1106
+Accessory: 653
+Unique: 4
+
+Genome 87
+Total mRNAs: 1737
+Core: 1113 64.08%
+Accessory: 623 35.87%
+Unique: 1 0.06%
+
+Total groups: 1719
+Core: 1106
+Accessory: 612
+Unique: 1
+
+Genome 88
+Total mRNAs: 1787
+Core: 1113 62.28%
+Accessory: 674 37.72%
+Unique: 0 0.00%
+
+Total groups: 1755
+Core: 1106
+Accessory: 649
+Unique: 0
+
+Genome 89
+Total mRNAs: 1814
+Core: 1111 61.25%
+Accessory: 685 37.76%
+Unique: 18 0.99%
+
+Total groups: 1802
+Core: 1106
+Accessory: 678
+Unique: 18
+
+Genome 90
+Total mRNAs: 1867
+Core: 1114 59.67%
+Accessory: 708 37.92%
+Unique: 45 2.41%
+
+Total groups: 1837
+Core: 1106
+Accessory: 686
+Unique: 45
+
+Genome 91
+Total mRNAs: 1862
+Core: 1112 59.72%
+Accessory: 750 40.28%
+Unique: 0 0.00%
+
+Total groups: 1818
+Core: 1106
+Accessory: 712
+Unique: 0
+
+Genome 92
+Total mRNAs: 1705
+Core: 1113 65.28%
+Accessory: 584 34.25%
+Unique: 8 0.47%
+
+Total groups: 1689
+Core: 1106
+Accessory: 575
+Unique: 8
+
+Genome 93
+Total mRNAs: 1891
+Core: 1116 59.02%
+Accessory: 771 40.77%
+Unique: 4 0.21%
+
+Total groups: 1864
+Core: 1106
+Accessory: 754
+Unique: 4
+
+Genome 94
+Total mRNAs: 1839
+Core: 1113 60.52%
+Accessory: 726 39.48%
+Unique: 0 0.00%
+
+Total groups: 1808
+Core: 1106
+Accessory: 702
+Unique: 0
+
+Genome 95
+Total mRNAs: 1785
+Core: 1121 62.80%
+Accessory: 659 36.92%
+Unique: 5 0.28%
+
+Total groups: 1753
+Core: 1106
+Accessory: 642
+Unique: 5
+
+Genome 96
+Total mRNAs: 1796
+Core: 1111 61.86%
+Accessory: 662 36.86%
+Unique: 23 1.28%
+
+Total groups: 1779
+Core: 1106
+Accessory: 650
+Unique: 23
+
+Genome 97
+Total mRNAs: 1655
+Core: 1112 67.19%
+Accessory: 540 32.63%
+Unique: 3 0.18%
+
+Total groups: 1641
+Core: 1106
+Accessory: 532
+Unique: 3
+
+Genome 98
+Total mRNAs: 1963
+Core: 1121 57.11%
+Accessory: 831 42.33%
+Unique: 11 0.56%
+
+Total groups: 1922
+Core: 1106
+Accessory: 805
+Unique: 11
+
+Genome 99
+Total mRNAs: 1765
+Core: 1113 63.06%
+Accessory: 652 36.94%
+Unique: 0 0.00%
+
+Total groups: 1744
+Core: 1106
+Accessory: 638
+Unique: 0
+
+Genome 100
+Total mRNAs: 1834
+Core: 1113 60.69%
+Accessory: 721 39.31%
+Unique: 0 0.00%
+
+Total groups: 1804
+Core: 1106
+Accessory: 698
+Unique: 0
+
+Genome 101
+Total mRNAs: 1584
+Core: 1113 70.27%
+Accessory: 466 29.42%
+Unique: 5 0.32%
+
+Total groups: 1573
+Core: 1106
+Accessory: 462
+Unique: 5
+
+Genome 102
+Total mRNAs: 1870
+Core: 1113 59.52%
+Accessory: 757 40.48%
+Unique: 0 0.00%
+
+Total groups: 1831
+Core: 1106
+Accessory: 725
+Unique: 0
+
+Genome 103
+Total mRNAs: 1765
+Core: 1112 63.00%
+Accessory: 652 36.94%
+Unique: 1 0.06%
+
+Total groups: 1745
+Core: 1106
+Accessory: 638
+Unique: 1
+
+Genome 104
+Total mRNAs: 1682
+Core: 1112 66.11%
+Accessory: 563 33.47%
+Unique: 7 0.42%
+
+Total groups: 1665
+Core: 1106
+Accessory: 552
+Unique: 7
+
+Genome 105
+Total mRNAs: 1762
+Core: 1113 63.17%
+Accessory: 648 36.78%
+Unique: 1 0.06%
+
+Total groups: 1744
+Core: 1106
+Accessory: 637
+Unique: 1
+
+Genome 106
+Total mRNAs: 1892
+Core: 1113 58.83%
+Accessory: 778 41.12%
+Unique: 1 0.05%
+
+Total groups: 1864
+Core: 1106
+Accessory: 757
+Unique: 1
+
+Genome 107
+Total mRNAs: 1764
+Core: 1113 63.10%
+Accessory: 631 35.77%
+Unique: 20 1.13%
+
+Total groups: 1740
+Core: 1106
+Accessory: 614
+Unique: 20
+
+Genome 108
+Total mRNAs: 1696
+Core: 1114 65.68%
+Accessory: 579 34.14%
+Unique: 3 0.18%
+
+Total groups: 1654
+Core: 1106
+Accessory: 545
+Unique: 3
+
+Genome 109
+Total mRNAs: 1760
+Core: 1113 63.24%
+Accessory: 644 36.59%
+Unique: 3 0.17%
+
+Total groups: 1726
+Core: 1106
+Accessory: 617
+Unique: 3
+
+Genome 110
+Total mRNAs: 1909
+Core: 1115 58.41%
+Accessory: 786 41.17%
+Unique: 8 0.42%
+
+Total groups: 1865
+Core: 1106
+Accessory: 751
+Unique: 8
+
+Genome 111
+Total mRNAs: 1870
+Core: 1112 59.47%
+Accessory: 756 40.43%
+Unique: 2 0.11%
+
+Total groups: 1854
+Core: 1106
+Accessory: 746
+Unique: 2
+
+Genome 112
+Total mRNAs: 1756
+Core: 1112 63.33%
+Accessory: 644 36.67%
+Unique: 0 0.00%
+
+Total groups: 1730
+Core: 1106
+Accessory: 624
+Unique: 0
+
+Genome 113
+Total mRNAs: 1837
+Core: 1113 60.59%
+Accessory: 723 39.36%
+Unique: 1 0.05%
+
+Total groups: 1803
+Core: 1106
+Accessory: 696
+Unique: 1
+
+Genome 114
+Total mRNAs: 1681
+Core: 1113 66.21%
+Accessory: 552 32.84%
+Unique: 16 0.95%
+
+Total groups: 1669
+Core: 1106
+Accessory: 547
+Unique: 16
+
+Genome 115
+Total mRNAs: 1790
+Core: 1114 62.23%
+Accessory: 599 33.46%
+Unique: 77 4.30%
+
+Total groups: 1778
+Core: 1106
+Accessory: 595
+Unique: 77
+
+Genome 116
+Total mRNAs: 1886
+Core: 1115 59.12%
+Accessory: 753 39.93%
+Unique: 18 0.95%
+
+Total groups: 1870
+Core: 1106
+Accessory: 746
+Unique: 18
+
+Genome 117
+Total mRNAs: 1755
+Core: 1114 63.48%
+Accessory: 640 36.47%
+Unique: 1 0.06%
+
+Total groups: 1727
+Core: 1106
+Accessory: 620
+Unique: 1
+
+Genome 118
+Total mRNAs: 1786
+Core: 1112 62.26%
+Accessory: 673 37.68%
+Unique: 1 0.06%
+
+Total groups: 1771
+Core: 1106
+Accessory: 664
+Unique: 1
+
+Genome 119
+Total mRNAs: 1720
+Core: 1113 64.71%
+Accessory: 601 34.94%
+Unique: 6 0.35%
+
+Total groups: 1702
+Core: 1106
+Accessory: 590
+Unique: 6
+
+Genome 120
+Total mRNAs: 1834
+Core: 1113 60.69%
+Accessory: 719 39.20%
+Unique: 2 0.11%
+
+Total groups: 1807
+Core: 1106
+Accessory: 699
+Unique: 2
+
+Genome 121
+Total mRNAs: 1685
+Core: 1115 66.17%
+Accessory: 559 33.18%
+Unique: 11 0.65%
+
+Total groups: 1667
+Core: 1106
+Accessory: 550
+Unique: 11
+
+Genome 122
+Total mRNAs: 1752
+Core: 1115 63.64%
+Accessory: 624 35.62%
+Unique: 13 0.74%
+
+Total groups: 1718
+Core: 1106
+Accessory: 599
+Unique: 13
+
+Genome 123
+Total mRNAs: 1866
+Core: 1113 59.65%
+Accessory: 753 40.35%
+Unique: 0 0.00%
+
+Total groups: 1824
+Core: 1106
+Accessory: 718
+Unique: 0
+
+Genome 124
+Total mRNAs: 1740
+Core: 1116 64.14%
+Accessory: 609 35.00%
+Unique: 15 0.86%
+
+Total groups: 1711
+Core: 1106
+Accessory: 590
+Unique: 15
+
+Genome 125
+Total mRNAs: 1801
+Core: 1112 61.74%
+Accessory: 680 37.76%
+Unique: 9 0.50%
+
+Total groups: 1786
+Core: 1106
+Accessory: 671
+Unique: 9
+
+Genome 126
+Total mRNAs: 1889
+Core: 1119 59.24%
+Accessory: 758 40.13%
+Unique: 12 0.64%
+
+Total groups: 1853
+Core: 1106
+Accessory: 735
+Unique: 12
+
+Genome 127
+Total mRNAs: 1673
+Core: 1112 66.47%
+Accessory: 559 33.41%
+Unique: 2 0.12%
+
+Total groups: 1657
+Core: 1106
+Accessory: 549
+Unique: 2
+
+Genome 128
+Total mRNAs: 1853
+Core: 1112 60.01%
+Accessory: 740 39.94%
+Unique: 1 0.05%
+
+Total groups: 1833
+Core: 1106
+Accessory: 726
+Unique: 1
+
+Genome 129
+Total mRNAs: 1876
+Core: 1112 59.28%
+Accessory: 737 39.29%
+Unique: 27 1.44%
+
+Total groups: 1835
+Core: 1106
+Accessory: 702
+Unique: 27
+
+Genome 130
+Total mRNAs: 1644
+Core: 1114 67.76%
+Accessory: 523 31.81%
+Unique: 7 0.43%
+
+Total groups: 1626
+Core: 1106
+Accessory: 513
+Unique: 7
+
+Genome 131
+Total mRNAs: 1641
+Core: 1113 67.82%
+Accessory: 527 32.11%
+Unique: 1 0.06%
+
+Total groups: 1627
+Core: 1106
+Accessory: 520
+Unique: 1
+
+Genome 132
+Total mRNAs: 1850
+Core: 1112 60.11%
+Accessory: 737 39.84%
+Unique: 1 0.05%
+
+Total groups: 1826
+Core: 1106
+Accessory: 719
+Unique: 1
+
+Genome 133
+Total mRNAs: 1787
+Core: 1112 62.23%
+Accessory: 671 37.55%
+Unique: 4 0.22%
+
+Total groups: 1773
+Core: 1106
+Accessory: 663
+Unique: 4
+
+Genome 134
+Total mRNAs: 1817
+Core: 1114 61.31%
+Accessory: 699 38.47%
+Unique: 4 0.22%
+
+Total groups: 1798
+Core: 1106
+Accessory: 688
+Unique: 4
+
+Genome 135
+Total mRNAs: 1894
+Core: 1114 58.82%
+Accessory: 780 41.18%
+Unique: 0 0.00%
+
+Total groups: 1855
+Core: 1106
+Accessory: 749
+Unique: 0
+
+Genome 136
+Total mRNAs: 1778
+Core: 1112 62.54%
+Accessory: 649 36.50%
+Unique: 17 0.96%
+
+Total groups: 1748
+Core: 1106
+Accessory: 625
+Unique: 17
+
+Genome 137
+Total mRNAs: 1821
+Core: 1112 61.07%
+Accessory: 709 38.93%
+Unique: 0 0.00%
+
+Total groups: 1806
+Core: 1106
+Accessory: 700
+Unique: 0
+
+Genome 138
+Total mRNAs: 1767
+Core: 1113 62.99%
+Accessory: 654 37.01%
+Unique: 0 0.00%
+
+Total groups: 1743
+Core: 1106
+Accessory: 637
+Unique: 0
+
+Genome 139
+Total mRNAs: 1880
+Core: 1112 59.15%
+Accessory: 745 39.63%
+Unique: 23 1.22%
+
+Total groups: 1827
+Core: 1106
+Accessory: 698
+Unique: 23
+
+Genome 140
+Total mRNAs: 1760
+Core: 1113 63.24%
+Accessory: 645 36.65%
+Unique: 2 0.11%
+
+Total groups: 1747
+Core: 1106
+Accessory: 639
+Unique: 2
+
+Genome 141
+Total mRNAs: 1761
+Core: 1113 63.20%
+Accessory: 648 36.80%
+Unique: 0 0.00%
+
+Total groups: 1743
+Core: 1106
+Accessory: 637
+Unique: 0
+
+Genome 142
+Total mRNAs: 1851
+Core: 1113 60.13%
+Accessory: 738 39.87%
+Unique: 0 0.00%
+
+Total groups: 1816
+Core: 1106
+Accessory: 710
+Unique: 0
+
+Genome 143
+Total mRNAs: 1673
+Core: 1113 66.53%
+Accessory: 546 32.64%
+Unique: 14 0.84%
+
+Total groups: 1657
+Core: 1106
+Accessory: 537
+Unique: 14
+
+Genome 144
+Total mRNAs: 1729
+Core: 1113 64.37%
+Accessory: 615 35.57%
+Unique: 1 0.06%
+
+Total groups: 1700
+Core: 1106
+Accessory: 593
+Unique: 1
+
+Genome 145
+Total mRNAs: 1895
+Core: 1112 58.68%
+Accessory: 744 39.26%
+Unique: 39 2.06%
+
+Total groups: 1850
+Core: 1106
+Accessory: 705
+Unique: 39
+
+Genome 146
+Total mRNAs: 1733
+Core: 1114 64.28%
+Accessory: 592 34.16%
+Unique: 27 1.56%
+
+Total groups: 1713
+Core: 1106
+Accessory: 580
+Unique: 27
+
+Genome 147
+Total mRNAs: 1677
+Core: 1113 66.37%
+Accessory: 557 33.21%
+Unique: 7 0.42%
+
+Total groups: 1659
+Core: 1106
+Accessory: 546
+Unique: 7
+
+Genome 148
+Total mRNAs: 1815
+Core: 1113 61.32%
+Accessory: 693 38.18%
+Unique: 9 0.50%
+
+Total groups: 1783
+Core: 1106
+Accessory: 668
+Unique: 9
+
+Genome 149
+Total mRNAs: 1762
+Core: 1112 63.11%
+Accessory: 649 36.83%
+Unique: 1 0.06%
+
+Total groups: 1745
+Core: 1106
+Accessory: 638
+Unique: 1
+
+Genome 150
+Total mRNAs: 1784
+Core: 1111 62.28%
+Accessory: 671 37.61%
+Unique: 2 0.11%
+
+Total groups: 1769
+Core: 1106
+Accessory: 661
+Unique: 2
+
+Genome 151
+Total mRNAs: 1748
+Core: 1113 63.67%
+Accessory: 598 34.21%
+Unique: 37 2.12%
+
+Total groups: 1726
+Core: 1106
+Accessory: 583
+Unique: 37
+
+Genome 152
+Total mRNAs: 1673
+Core: 1112 66.47%
+Accessory: 549 32.82%
+Unique: 12 0.72%
+
+Total groups: 1663
+Core: 1106
+Accessory: 545
+Unique: 12
+
+Genome 153
+Total mRNAs: 1680
+Core: 1111 66.13%
+Accessory: 567 33.75%
+Unique: 2 0.12%
+
+Total groups: 1666
+Core: 1106
+Accessory: 558
+Unique: 2
+
+Genome 154
+Total mRNAs: 1686
+Core: 1113 66.01%
+Accessory: 571 33.87%
+Unique: 2 0.12%
+
+Total groups: 1666
+Core: 1106
+Accessory: 558
+Unique: 2
+
+Genome 155
+Total mRNAs: 1757
+Core: 1127 64.14%
+Accessory: 626 35.63%
+Unique: 4 0.23%
+
+Total groups: 1715
+Core: 1106
+Accessory: 605
+Unique: 4
+
+Genome 156
+Total mRNAs: 1781
+Core: 1113 62.49%
+Accessory: 668 37.51%
+Unique: 0 0.00%
+
+Total groups: 1767
+Core: 1106
+Accessory: 661
+Unique: 0
+
+Genome 157
+Total mRNAs: 1787
+Core: 1113 62.28%
+Accessory: 673 37.66%
+Unique: 1 0.06%
+
+Total groups: 1755
+Core: 1106
+Accessory: 648
+Unique: 1
+
+Genome 158
+Total mRNAs: 1761
+Core: 1115 63.32%
+Accessory: 645 36.63%
+Unique: 1 0.06%
+
+Total groups: 1742
+Core: 1106
+Accessory: 635
+Unique: 1
+
+Genome 159
+Total mRNAs: 1906
+Core: 1113 58.39%
+Accessory: 793 41.61%
+Unique: 0 0.00%
+
+Total groups: 1868
+Core: 1106
+Accessory: 762
+Unique: 0
+
+Genome 160
+Total mRNAs: 1694
+Core: 1113 65.70%
+Accessory: 545 32.17%
+Unique: 36 2.13%
+
+Total groups: 1680
+Core: 1106
+Accessory: 538
+Unique: 36
+
+Genome 161
+Total mRNAs: 1717
+Core: 1112 64.76%
+Accessory: 590 34.36%
+Unique: 15 0.87%
+
+Total groups: 1700
+Core: 1106
+Accessory: 579
+Unique: 15
+
+Genome 162
+Total mRNAs: 1586
+Core: 1111 70.05%
+Accessory: 473 29.82%
+Unique: 2 0.13%
+
+Total groups: 1575
+Core: 1106
+Accessory: 467
+Unique: 2
+
+Genome 163
+Total mRNAs: 1734
+Core: 1113 64.19%
+Accessory: 615 35.47%
+Unique: 6 0.35%
+
+Total groups: 1718
+Core: 1106
+Accessory: 606
+Unique: 6
+
+Genome 164
+Total mRNAs: 1714
+Core: 1112 64.88%
+Accessory: 588 34.31%
+Unique: 14 0.82%
+
+Total groups: 1696
+Core: 1106
+Accessory: 576
+Unique: 14
+
+Genome 165
+Total mRNAs: 1625
+Core: 1112 68.43%
+Accessory: 513 31.57%
+Unique: 0 0.00%
+
+Total groups: 1611
+Core: 1106
+Accessory: 505
+Unique: 0
+
+Genome 166
+Total mRNAs: 1629
+Core: 1111 68.20%
+Accessory: 518 31.80%
+Unique: 0 0.00%
+
+Total groups: 1615
+Core: 1106
+Accessory: 509
+Unique: 0
+
+Genome 167
+Total mRNAs: 1760
+Core: 1112 63.18%
+Accessory: 646 36.70%
+Unique: 2 0.11%
+
+Total groups: 1747
+Core: 1106
+Accessory: 639
+Unique: 2
+
+Genome 168
+Total mRNAs: 1752
+Core: 1114 63.58%
+Accessory: 635 36.24%
+Unique: 3 0.17%
+
+Total groups: 1729
+Core: 1106
+Accessory: 620
+Unique: 3
+
+Genome 169
+Total mRNAs: 1809
+Core: 1112 61.47%
+Accessory: 697 38.53%
+Unique: 0 0.00%
+
+Total groups: 1796
+Core: 1106
+Accessory: 690
+Unique: 0
+
+Genome 170
+Total mRNAs: 1572
+Core: 1113 70.80%
+Accessory: 459 29.20%
+Unique: 0 0.00%
+
+Total groups: 1561
+Core: 1106
+Accessory: 455
+Unique: 0
+
+Genome 171
+Total mRNAs: 1628
+Core: 1113 68.37%
+Accessory: 508 31.20%
+Unique: 7 0.43%
+
+Total groups: 1611
+Core: 1106
+Accessory: 498
+Unique: 7
+
+Genome 172
+Total mRNAs: 1759
+Core: 1112 63.22%
+Accessory: 644 36.61%
+Unique: 3 0.17%
+
+Total groups: 1745
+Core: 1106
+Accessory: 636
+Unique: 3
+
+Genome 173
+Total mRNAs: 1625
+Core: 1113 68.49%
+Accessory: 506 31.14%
+Unique: 6 0.37%
+
+Total groups: 1609
+Core: 1106
+Accessory: 497
+Unique: 6
+
+Genome 174
+Total mRNAs: 1789
+Core: 1113 62.21%
+Accessory: 675 37.73%
+Unique: 1 0.06%
+
+Total groups: 1756
+Core: 1106
+Accessory: 649
+Unique: 1
+
+Genome 175
+Total mRNAs: 1678
+Core: 1113 66.33%
+Accessory: 565 33.67%
+Unique: 0 0.00%
+
+Total groups: 1661
+Core: 1106
+Accessory: 555
+Unique: 0
+
+Genome 176
+Total mRNAs: 1810
+Core: 1116 61.66%
+Accessory: 689 38.07%
+Unique: 5 0.28%
+
+Total groups: 1768
+Core: 1106
+Accessory: 657
+Unique: 5
+
+Genome 177
+Total mRNAs: 1734
+Core: 1113 64.19%
+Accessory: 620 35.76%
+Unique: 1 0.06%
+
+Total groups: 1721
+Core: 1106
+Accessory: 614
+Unique: 1
+
+Genome 178
+Total mRNAs: 1752
+Core: 1126 64.27%
+Accessory: 616 35.16%
+Unique: 10 0.57%
+
+Total groups: 1716
+Core: 1106
+Accessory: 600
+Unique: 10
+
+Genome 179
+Total mRNAs: 1653
+Core: 1112 67.27%
+Accessory: 539 32.61%
+Unique: 2 0.12%
+
+Total groups: 1628
+Core: 1106
+Accessory: 520
+Unique: 2
+
+Genome 180
+Total mRNAs: 1780
+Core: 1114 62.58%
+Accessory: 663 37.25%
+Unique: 3 0.17%
+
+Total groups: 1764
+Core: 1106
+Accessory: 655
+Unique: 3
+
+Genome 181
+Total mRNAs: 1757
+Core: 1113 63.35%
+Accessory: 625 35.57%
+Unique: 19 1.08%
+
+Total groups: 1734
+Core: 1106
+Accessory: 609
+Unique: 19
+
+Genome 182
+Total mRNAs: 1738
+Core: 1112 63.98%
+Accessory: 619 35.62%
+Unique: 7 0.40%
+
+Total groups: 1720
+Core: 1106
+Accessory: 607
+Unique: 7
+
+Genome 183
+Total mRNAs: 1627
+Core: 1114 68.47%
+Accessory: 504 30.98%
+Unique: 9 0.55%
+
+Total groups: 1613
+Core: 1106
+Accessory: 498
+Unique: 9
+
+Genome 184
+Total mRNAs: 1611
+Core: 1112 69.03%
+Accessory: 499 30.97%
+Unique: 0 0.00%
+
+Total groups: 1603
+Core: 1106
+Accessory: 497
+Unique: 0
+
+Genome 185
+Total mRNAs: 1907
+Core: 1114 58.42%
+Accessory: 793 41.58%
+Unique: 0 0.00%
+
+Total groups: 1869
+Core: 1106
+Accessory: 763
+Unique: 0
+
+Genome 186
+Total mRNAs: 1646
+Core: 1114 67.68%
+Accessory: 523 31.77%
+Unique: 9 0.55%
+
+Total groups: 1624
+Core: 1106
+Accessory: 509
+Unique: 9
+
+Genome 187
+Total mRNAs: 1562
+Core: 1113 71.25%
+Accessory: 443 28.36%
+Unique: 6 0.38%
+
+Total groups: 1550
+Core: 1106
+Accessory: 438
+Unique: 6
+
+Genome 188
+Total mRNAs: 1832
+Core: 1114 60.81%
+Accessory: 717 39.14%
+Unique: 1 0.05%
+
+Total groups: 1793
+Core: 1106
+Accessory: 686
+Unique: 1
+
+Genome 189
+Total mRNAs: 1759
+Core: 1112 63.22%
+Accessory: 647 36.78%
+Unique: 0 0.00%
+
+Total groups: 1747
+Core: 1106
+Accessory: 641
+Unique: 0
+
+Genome 190
+Total mRNAs: 1897
+Core: 1115 58.78%
+Accessory: 782 41.22%
+Unique: 0 0.00%
+
+Total groups: 1855
+Core: 1106
+Accessory: 749
+Unique: 0
+
+Genome 191
+Total mRNAs: 1747
+Core: 1112 63.65%
+Accessory: 611 34.97%
+Unique: 24 1.37%
+
+Total groups: 1726
+Core: 1106
+Accessory: 596
+Unique: 24
+
+Genome 192
+Total mRNAs: 1849
+Core: 1114 60.25%
+Accessory: 730 39.48%
+Unique: 5 0.27%
+
+Total groups: 1828
+Core: 1106
+Accessory: 717
+Unique: 5
+
+Genome 193
+Total mRNAs: 1745
+Core: 1112 63.72%
+Accessory: 632 36.22%
+Unique: 1 0.06%
+
+Total groups: 1733
+Core: 1106
+Accessory: 626
+Unique: 1
+
+Genome 194
+Total mRNAs: 1752
+Core: 1112 63.47%
+Accessory: 624 35.62%
+Unique: 16 0.91%
+
+Total groups: 1740
+Core: 1106
+Accessory: 618
+Unique: 16
+
+Genome 195
+Total mRNAs: 1838
+Core: 1116 60.72%
+Accessory: 716 38.96%
+Unique: 6 0.33%
+
+Total groups: 1803
+Core: 1106
+Accessory: 691
+Unique: 6
+
+Genome 196
+Total mRNAs: 1750
+Core: 1113 63.60%
+Accessory: 636 36.34%
+Unique: 1 0.06%
+
+Total groups: 1736
+Core: 1106
+Accessory: 629
+Unique: 1
+
+Genome 197
+Total mRNAs: 1892
+Core: 1117 59.04%
+Accessory: 753 39.80%
+Unique: 22 1.16%
+
+Total groups: 1856
+Core: 1106
+Accessory: 728
+Unique: 22
+
+Genome 198
+Total mRNAs: 1821
+Core: 1116 61.29%
+Accessory: 701 38.50%
+Unique: 4 0.22%
+
+Total groups: 1786
+Core: 1106
+Accessory: 676
+Unique: 4
+
+Genome 199
+Total mRNAs: 1891
+Core: 1113 58.86%
+Accessory: 761 40.24%
+Unique: 17 0.90%
+
+Total groups: 1828
+Core: 1106
+Accessory: 705
+Unique: 17
+
+Genome 200
+Total mRNAs: 1726
+Core: 1113 64.48%
+Accessory: 611 35.40%
+Unique: 2 0.12%
+
+Total groups: 1696
+Core: 1106
+Accessory: 588
+Unique: 2
+
+Genome 201
+Total mRNAs: 1811
+Core: 1112 61.40%
+Accessory: 698 38.54%
+Unique: 1 0.06%
+
+Total groups: 1793
+Core: 1106
+Accessory: 686
+Unique: 1
+
+Genome 202
+Total mRNAs: 1673
+Core: 1114 66.59%
+Accessory: 554 33.11%
+Unique: 5 0.30%
+
+Total groups: 1655
+Core: 1106
+Accessory: 544
+Unique: 5
+
+Genome 203
+Total mRNAs: 1648
+Core: 1114 67.60%
+Accessory: 524 31.80%
+Unique: 10 0.61%
+
+Total groups: 1637
+Core: 1106
+Accessory: 521
+Unique: 10
+
+Genome 204
+Total mRNAs: 1852
+Core: 1116 60.26%
+Accessory: 736 39.74%
+Unique: 0 0.00%
+
+Total groups: 1813
+Core: 1106
+Accessory: 707
+Unique: 0
+
+Genome 205
+Total mRNAs: 1853
+Core: 1115 60.17%
+Accessory: 737 39.77%
+Unique: 1 0.05%
+
+Total groups: 1813
+Core: 1106
+Accessory: 706
+Unique: 1
+
+Genome 206
+Total mRNAs: 1667
+Core: 1113 66.77%
+Accessory: 546 32.75%
+Unique: 8 0.48%
+
+Total groups: 1648
+Core: 1106
+Accessory: 534
+Unique: 8
+
+Genome 207
+Total mRNAs: 1796
+Core: 1114 62.03%
+Accessory: 668 37.19%
+Unique: 14 0.78%
+
+Total groups: 1756
+Core: 1106
+Accessory: 636
+Unique: 14
+
+Genome 208
+Total mRNAs: 1753
+Core: 1115 63.61%
+Accessory: 629 35.88%
+Unique: 9 0.51%
+
+Total groups: 1731
+Core: 1106
+Accessory: 616
+Unique: 9
+
+Genome 209
+Total mRNAs: 1897
+Core: 1115 58.78%
+Accessory: 782 41.22%
+Unique: 0 0.00%
+
+Total groups: 1856
+Core: 1106
+Accessory: 750
+Unique: 0
+
+Genome 210
+Total mRNAs: 1680
+Core: 1115 66.37%
+Accessory: 558 33.21%
+Unique: 7 0.42%
+
+Total groups: 1663
+Core: 1106
+Accessory: 550
+Unique: 7
+
+Genome 211
+Total mRNAs: 1752
+Core: 1113 63.53%
+Accessory: 616 35.16%
+Unique: 23 1.31%
+
+Total groups: 1718
+Core: 1106
+Accessory: 589
+Unique: 23
+
+Genome 212
+Total mRNAs: 1662
+Core: 1117 67.21%
+Accessory: 536 32.25%
+Unique: 9 0.54%
+
+Total groups: 1635
+Core: 1106
+Accessory: 520
+Unique: 9
+
+Genome 213
+Total mRNAs: 1691
+Core: 1114 65.88%
+Accessory: 550 32.53%
+Unique: 27 1.60%
+
+Total groups: 1677
+Core: 1106
+Accessory: 544
+Unique: 27
+
+Genome 214
+Total mRNAs: 1674
+Core: 1112 66.43%
+Accessory: 560 33.45%
+Unique: 2 0.12%
+
+Total groups: 1659
+Core: 1106
+Accessory: 551
+Unique: 2
+
+Genome 215
+Total mRNAs: 1872
+Core: 1112 59.40%
+Accessory: 744 39.74%
+Unique: 16 0.85%
+
+Total groups: 1852
+Core: 1106
+Accessory: 730
+Unique: 16
+
+Genome 216
+Total mRNAs: 1767
+Core: 1112 62.93%
+Accessory: 652 36.90%
+Unique: 3 0.17%
+
+Total groups: 1751
+Core: 1106
+Accessory: 642
+Unique: 3
+
+Genome 217
+Total mRNAs: 1758
+Core: 1113 63.31%
+Accessory: 645 36.69%
+Unique: 0 0.00%
+
+Total groups: 1744
+Core: 1106
+Accessory: 638
+Unique: 0
+
+Genome 218
+Total mRNAs: 1804
+Core: 1112 61.64%
+Accessory: 681 37.75%
+Unique: 11 0.61%
+
+Total groups: 1778
+Core: 1106
+Accessory: 661
+Unique: 11
+
+Genome 219
+Total mRNAs: 1791
+Core: 1113 62.14%
+Accessory: 678 37.86%
+Unique: 0 0.00%
+
+Total groups: 1757
+Core: 1106
+Accessory: 651
+Unique: 0
+
+Genome 220
+Total mRNAs: 1822
+Core: 1112 61.03%
+Accessory: 708 38.86%
+Unique: 2 0.11%
+
+Total groups: 1803
+Core: 1106
+Accessory: 695
+Unique: 2
+
+Genome 221
+Total mRNAs: 1717
+Core: 1114 64.88%
+Accessory: 603 35.12%
+Unique: 0 0.00%
+
+Total groups: 1703
+Core: 1106
+Accessory: 597
+Unique: 0
+
+Genome 222
+Total mRNAs: 1848
+Core: 1112 60.17%
+Accessory: 734 39.72%
+Unique: 2 0.11%
+
+Total groups: 1827
+Core: 1106
+Accessory: 719
+Unique: 2
+
+Genome 223
+Total mRNAs: 1880
+Core: 1114 59.26%
+Accessory: 687 36.54%
+Unique: 79 4.20%
+
+Total groups: 1828
+Core: 1106
+Accessory: 643
+Unique: 79
+
+Genome 224
+Total mRNAs: 1734
+Core: 1111 64.07%
+Accessory: 620 35.76%
+Unique: 3 0.17%
+
+Total groups: 1720
+Core: 1106
+Accessory: 611
+Unique: 3
+
+Genome 225
+Total mRNAs: 1623
+Core: 1111 68.45%
+Accessory: 511 31.48%
+Unique: 1 0.06%
+
+Total groups: 1610
+Core: 1106
+Accessory: 503
+Unique: 1
+
+Genome 226
+Total mRNAs: 1839
+Core: 1114 60.58%
+Accessory: 725 39.42%
+Unique: 0 0.00%
+
+Total groups: 1809
+Core: 1106
+Accessory: 703
+Unique: 0
+
+Genome 227
+Total mRNAs: 1709
+Core: 1113 65.13%
+Accessory: 584 34.17%
+Unique: 12 0.70%
+
+Total groups: 1689
+Core: 1106
+Accessory: 571
+Unique: 12
+
+Genome 228
+Total mRNAs: 1852
+Core: 1113 60.10%
+Accessory: 739 39.90%
+Unique: 0 0.00%
+
+Total groups: 1817
+Core: 1106
+Accessory: 711
+Unique: 0
+
+Genome 229
+Total mRNAs: 1841
+Core: 1114 60.51%
+Accessory: 727 39.49%
+Unique: 0 0.00%
+
+Total groups: 1809
+Core: 1106
+Accessory: 703
+Unique: 0
+
+Genome 230
+Total mRNAs: 1774
+Core: 1113 62.74%
+Accessory: 656 36.98%
+Unique: 5 0.28%
+
+Total groups: 1751
+Core: 1106
+Accessory: 640
+Unique: 5
+
+Genome 231
+Total mRNAs: 1595
+Core: 1113 69.78%
+Accessory: 482 30.22%
+Unique: 0 0.00%
+
+Total groups: 1579
+Core: 1106
+Accessory: 473
+Unique: 0
+
+Genome 232
+Total mRNAs: 1882
+Core: 1112 59.09%
+Accessory: 770 40.91%
+Unique: 0 0.00%
+
+Total groups: 1868
+Core: 1106
+Accessory: 762
+Unique: 0
+
+Genome 233
+Total mRNAs: 1706
+Core: 1112 65.18%
+Accessory: 574 33.65%
+Unique: 20 1.17%
+
+Total groups: 1693
+Core: 1106
+Accessory: 567
+Unique: 20
+
+Genome 234
+Total mRNAs: 1851
+Core: 1113 60.13%
+Accessory: 738 39.87%
+Unique: 0 0.00%
+
+Total groups: 1816
+Core: 1106
+Accessory: 710
+Unique: 0
+
+Genome 235
+Total mRNAs: 1762
+Core: 1113 63.17%
+Accessory: 645 36.61%
+Unique: 4 0.23%
+
+Total groups: 1732
+Core: 1106
+Accessory: 622
+Unique: 4
+
+Genome 236
+Total mRNAs: 1672
+Core: 1124 67.22%
+Accessory: 523 31.28%
+Unique: 25 1.50%
+
+Total groups: 1641
+Core: 1106
+Accessory: 510
+Unique: 25
+
+Genome 237
+Total mRNAs: 1682
+Core: 1112 66.11%
+Accessory: 569 33.83%
+Unique: 1 0.06%
+
+Total groups: 1663
+Core: 1106
+Accessory: 556
+Unique: 1
+
+Genome 238
+Total mRNAs: 1844
+Core: 1116 60.52%
+Accessory: 726 39.37%
+Unique: 2 0.11%
+
+Total groups: 1810
+Core: 1106
+Accessory: 702
+Unique: 2
+
+Genome 239
+Total mRNAs: 1758
+Core: 1112 63.25%
+Accessory: 631 35.89%
+Unique: 15 0.85%
+
+Total groups: 1733
+Core: 1106
+Accessory: 612
+Unique: 15
+
+Genome 240
+Total mRNAs: 1719
+Core: 1112 64.69%
+Accessory: 583 33.92%
+Unique: 24 1.40%
+
+Total groups: 1701
+Core: 1106
+Accessory: 571
+Unique: 24
+
+Genome 241
+Total mRNAs: 1842
+Core: 1114 60.48%
+Accessory: 725 39.36%
+Unique: 3 0.16%
+
+Total groups: 1810
+Core: 1106
+Accessory: 701
+Unique: 3
+
+Genome 242
+Total mRNAs: 1623
+Core: 1113 68.58%
+Accessory: 506 31.18%
+Unique: 4 0.25%
+
+Total groups: 1611
+Core: 1106
+Accessory: 501
+Unique: 4
+
+Genome 243
+Total mRNAs: 1825
+Core: 1112 60.93%
+Accessory: 712 39.01%
+Unique: 1 0.05%
+
+Total groups: 1810
+Core: 1106
+Accessory: 703
+Unique: 1
+
+Genome 244
+Total mRNAs: 1894
+Core: 1113 58.76%
+Accessory: 769 40.60%
+Unique: 12 0.63%
+
+Total groups: 1878
+Core: 1106
+Accessory: 760
+Unique: 12
+
+Genome 245
+Total mRNAs: 1674
+Core: 1116 66.67%
+Accessory: 536 32.02%
+Unique: 22 1.31%
+
+Total groups: 1657
+Core: 1106
+Accessory: 529
+Unique: 22
+
+Genome 246
+Total mRNAs: 1849
+Core: 1112 60.14%
+Accessory: 737 39.86%
+Unique: 0 0.00%
+
+Total groups: 1831
+Core: 1106
+Accessory: 725
+Unique: 0
+
+Genome 247
+Total mRNAs: 1647
+Core: 1115 67.70%
+Accessory: 532 32.30%
+Unique: 0 0.00%
+
+Total groups: 1627
+Core: 1106
+Accessory: 521
+Unique: 0
+

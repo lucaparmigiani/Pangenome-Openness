@@ -1,0 +1,9 @@
+Genome no.	Organism name	No. of core genes	No. of accessory genes	No. of unique genes	No. of exclusively absent genes
+1	Organism1	184	39	4504	1322
+2	Organism2	184	4359	737	0
+3	Organism3	184	4749	4	0
+4	Organism4	184	4003	663	0
+5	Organism5	184	3956	644	1
+6	Organism6	184	1693	2684	4
+7	Organism7	184	4295	319	0
+8	Organism8	184	4742	1	0

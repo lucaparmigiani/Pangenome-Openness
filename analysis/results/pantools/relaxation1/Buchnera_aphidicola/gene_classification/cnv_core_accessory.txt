@@ -1,0 +1,185 @@
+#Genomes with additional copies compared to other genomes
+#Homology group identifier, number of additional copies compared to the lowest number in a homology group (at least 1).
+
+#Genome 1
+Core
+
+Accessory
+
+#Genome 2
+Core
+
+Accessory
+
+#Genome 3
+Core
+
+Accessory
+
+#Genome 4
+Core
+
+Accessory
+
+#Genome 5
+Core
+
+Accessory
+
+#Genome 6
+Core
+
+Accessory
+
+#Genome 7
+Core
+
+Accessory
+
+#Genome 8
+Core
+
+Accessory
+
+#Genome 9
+Core
+
+Accessory
+
+#Genome 10
+Core
+
+Accessory
+
+#Genome 11
+Core
+
+Accessory
+
+#Genome 12
+Core
+
+Accessory
+
+#Genome 13
+Core
+
+Accessory
+
+#Genome 14
+Core
+
+Accessory
+
+#Genome 15
+Core
+
+Accessory
+ 2814812, 1
+
+#Genome 16
+Core
+
+Accessory
+
+#Genome 17
+Core
+
+Accessory
+ 2814810, 1
+ 2814852, 1
+ 2814944, 1
+ 2814949, 1
+ 2815140, 1
+ 2815161, 1
+
+#Genome 18
+Core
+
+Accessory
+
+#Genome 19
+Core
+
+Accessory
+
+#Genome 20
+Core
+
+Accessory
+
+#Genome 21
+Core
+
+Accessory
+
+#Genome 22
+Core
+
+Accessory
+ 2813427, 1
+
+#Genome 23
+Core
+
+Accessory
+
+#Genome 24
+Core
+
+Accessory
+
+#Genome 25
+Core
+
+Accessory
+
+#Genome 26
+Core
+
+Accessory
+
+#Genome 27
+Core
+
+Accessory
+
+#Genome 28
+Core
+
+Accessory
+
+#Genome 29
+Core
+
+Accessory
+
+#Genome 30
+Core
+
+Accessory
+
+#Genome 31
+Core
+
+Accessory
+
+#Genome 32
+Core
+
+Accessory
+
+#Genome 33
+Core
+
+Accessory
+
+#Genome 34
+Core
+
+Accessory
+
+#Genome 35
+Core
+
+Accessory

@@ -1,0 +1,71 @@
+#Each genome is added to the pangenome of the remaining genomes to identify the number of groups gained (accessory, unique) or lost (core, unique)
+
+Average gain/loss when adding the 9th genome, standard deviation, range 
+Core: -0.11, 0.31, 0 0
+Accessory: 501.56, 636.14, 1678 114
+Unique: 551.56, 1063.69, -1256 992
+
+Median gain/loss when adding the 9th genome
+Core: 0.0
+Accessory: 292.0
+Unique: 1126.0
+
+Highest unique gain 1873 was caused by genome 4
+Highest core loss -1 was caused by genome 4
+
+
+#Group gain/loss per genome
+Genome 1
+Distinct genes: 2128 (2150 total)
+ Core loss 0
+ Accessory gain 1678
+ Unique gain/loss 422/1678
+
+Genome 2
+Distinct genes: 1913 (1919 total)
+ Core loss 0
+ Accessory gain 54
+ Unique gain/loss 1180/54
+
+Genome 3
+Distinct genes: 1888 (1889 total)
+ Core loss 0
+ Accessory gain 308
+ Unique gain/loss 739/308
+
+Genome 4
+Distinct genes: 1901 (1903 total)
+ Core loss -1
+ Accessory gain 1
+ Unique gain/loss 1873/1
+
+Genome 5
+Distinct genes: 2086 (2110 total)
+ Core loss 0
+ Accessory gain 1679
+ Unique gain/loss 379/1679
+
+Genome 6
+Distinct genes: 1891 (1898 total)
+ Core loss 0
+ Accessory gain 196
+ Unique gain/loss 1515/196
+
+Genome 7
+Distinct genes: 1910 (1916 total)
+ Core loss 0
+ Accessory gain 192
+ Unique gain/loss 1522/192
+
+Genome 8
+Distinct genes: 1872 (1873 total)
+ Core loss 0
+ Accessory gain 292
+ Unique gain/loss 742/292
+
+Genome 9
+Distinct genes: 1978 (1982 total)
+ Core loss 0
+ Accessory gain 114
+ Unique gain/loss 1106/114
+

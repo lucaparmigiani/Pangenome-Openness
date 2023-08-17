@@ -1,0 +1,74 @@
+#Average number of core, accessory, unique groups gained or lost per additional genome based on 1000 pangenome size iterations.
+#The AVERAGE, MEDIAN gain/loss, and STANDARD DEVIATION are shown for each gene category between two pangenome sizes
+
+Number of groups of first (N=3) and last (N=8) size -> Average number of genes gained/lost per additional genome
+Core: 2611.39 - 552.13 -> -411.85
+Accessory: 0.00 - 5099.59 -> 1019.92
+Unique: 4495.72 - 7983.26 -> 697.51
+Accessory combined with unique: 4495.72 - 13082.85 -> 1717.43
+
+N=3
+Core groups 2611.395
+Accessory groups 0.0
+Unique groups 4495.721
+
+N=3 -> N=4
+Core difference: -723.90, -78.00, 1134.49
+Unique difference: 292.94, -194.00, 2219.57
+Accessory difference: 2059.73, 1732.00, 1051.21
+Accessory combined with unique difference: 2352.67, 1403.00, 2323.98
+
+N=4
+Core groups 1887.492
+Accessory groups 2059.727
+Unique groups 4788.666
+
+N=4 -> N=5
+Core difference: -450.01, -10.00, 907.76
+Unique difference: 721.54, 227.00, 1705.53
+Accessory difference: 1083.93, 1028.00, 853.05
+Accessory combined with unique difference: 1805.47, 833.00, 2099.62
+
+N=5
+Core groups 1437.477
+Accessory groups 3143.654
+Unique groups 5510.21
+
+N=5 -> N=6
+Core difference: -335.86, -3.00, 775.92
+Unique difference: 757.00, 225.00, 1574.06
+Accessory difference: 774.56, 726.00, 695.42
+Accessory combined with unique difference: 1531.56, 627.00, 2029.91
+
+N=6
+Core groups 1101.621
+Accessory groups 3918.214
+Unique groups 6267.205
+
+N=6 -> N=7
+Core difference: -292.16, -1.00, 705.44
+Unique difference: 800.61, 223.00, 1562.25
+Accessory difference: 639.16, 460.00, 637.06
+Accessory combined with unique difference: 1439.77, 585.00, 2012.66
+
+N=7
+Core groups 809.457
+Accessory groups 4557.376
+Unique groups 7067.811
+
+N=7 -> N=8
+Core difference: -257.32, 0.00, 629.67
+Unique difference: 915.45, 178.00, 1573.14
+Accessory difference: 542.22, 420.00, 567.22
+Accessory combined with unique difference: 1457.66, 583.00, 1987.38
+
+N=8
+Core groups 552.132
+Accessory groups 5099.593
+Unique groups 7983.258
+
+N=8 -> N=9
+Core difference: -169.13, 0.00, 490.10
+Unique difference: 720.74, -133.00, 1488.82
+Accessory difference: 491.41, 415.00, 449.67
+Accessory combined with unique difference: 1212.15, 569.00, 1762.21

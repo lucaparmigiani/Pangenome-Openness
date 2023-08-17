@@ -1,0 +1,360 @@
+#Average number of core, accessory, unique groups gained or lost per additional genome based on 1000 pangenome size iterations.
+#The AVERAGE, MEDIAN gain/loss, and STANDARD DEVIATION are shown for each gene category between two pangenome sizes
+
+Number of groups of first (N=3) and last (N=35) size -> Average number of genes gained/lost per additional genome
+Core: 227.81 - 76.19 -> -4.74
+Accessory: 216.26 - 1165.02 -> 29.65
+Unique: 508.78 - 2387.99 -> 58.73
+Accessory combined with unique: 725.04 - 3553.01 -> 88.37
+
+N=3
+Core groups 227.808
+Accessory groups 216.26
+Unique groups 508.782
+
+N=3 -> N=4
+Core difference: -39.15, -2.00, 89.18
+Unique difference: 58.67, 25.00, 170.56
+Accessory difference: 120.98, 84.00, 106.82
+Accessory combined with unique difference: 179.65, 117.00, 174.33
+
+N=4
+Core groups 188.659
+Accessory groups 337.24
+Unique groups 567.448
+
+N=4 -> N=5
+Core difference: -29.02, -1.00, 77.76
+Unique difference: 70.50, 28.00, 145.93
+Accessory difference: 84.92, 62.00, 83.41
+Accessory combined with unique difference: 155.42, 95.00, 165.20
+
+N=5
+Core groups 159.641
+Accessory groups 422.165
+Unique groups 637.947
+
+N=5 -> N=6
+Core difference: -20.55, -1.00, 65.72
+Unique difference: 67.00, 27.00, 131.21
+Accessory difference: 66.78, 47.00, 67.87
+Accessory combined with unique difference: 133.78, 87.00, 150.01
+
+N=6
+Core groups 139.086
+Accessory groups 488.94
+Unique groups 704.948
+
+N=6 -> N=7
+Core difference: -13.24, 0.00, 49.63
+Unique difference: 66.12, 27.00, 132.01
+Accessory difference: 54.96, 40.00, 56.69
+Accessory combined with unique difference: 121.08, 72.00, 136.64
+
+N=7
+Core groups 125.841
+Accessory groups 543.899
+Unique groups 771.07
+
+N=7 -> N=8
+Core difference: -11.74, 0.00, 45.71
+Unique difference: 69.00, 29.00, 126.90
+Accessory difference: 46.98, 30.00, 52.41
+Accessory combined with unique difference: 115.98, 64.00, 134.78
+
+N=8
+Core groups 114.101
+Accessory groups 590.879
+Unique groups 840.07
+
+N=8 -> N=9
+Core difference: -8.05, 0.00, 35.01
+Unique difference: 68.60, 27.00, 127.09
+Accessory difference: 41.99, 27.00, 45.25
+Accessory combined with unique difference: 110.59, 59.00, 128.83
+
+N=9
+Core groups 106.053
+Accessory groups 632.867
+Unique groups 908.674
+
+N=9 -> N=10
+Core difference: -5.10, 0.00, 25.87
+Unique difference: 64.75, 24.00, 125.08
+Accessory difference: 36.37, 21.00, 40.51
+Accessory combined with unique difference: 101.12, 48.00, 122.24
+
+N=10
+Core groups 100.949
+Accessory groups 669.233
+Unique groups 973.427
+
+N=10 -> N=11
+Core difference: -5.89, 0.00, 32.64
+Unique difference: 62.83, 15.00, 120.42
+Accessory difference: 35.15, 19.00, 42.79
+Accessory combined with unique difference: 97.98, 44.00, 123.82
+
+N=11
+Core groups 95.061
+Accessory groups 704.379
+Unique groups 1036.258
+
+N=11 -> N=12
+Core difference: -3.89, 0.00, 25.36
+Unique difference: 66.03, 26.00, 119.76
+Accessory difference: 30.08, 14.00, 39.14
+Accessory combined with unique difference: 96.10, 47.00, 118.83
+
+N=12
+Core groups 91.17
+Accessory groups 734.455
+Unique groups 1102.284
+
+N=12 -> N=13
+Core difference: -3.11, 0.00, 18.60
+Unique difference: 64.70, 14.00, 119.23
+Accessory difference: 28.89, 14.00, 34.82
+Accessory combined with unique difference: 93.59, 25.00, 117.21
+
+N=13
+Core groups 88.058
+Accessory groups 763.348
+Unique groups 1166.983
+
+N=13 -> N=14
+Core difference: -1.86, 0.00, 16.09
+Unique difference: 49.49, 8.00, 104.35
+Accessory difference: 27.24, 13.00, 33.96
+Accessory combined with unique difference: 76.73, 19.00, 104.18
+
+N=14
+Core groups 86.2
+Accessory groups 790.588
+Unique groups 1216.474
+
+N=14 -> N=15
+Core difference: -1.81, 0.00, 11.60
+Unique difference: 59.38, 9.00, 113.45
+Accessory difference: 27.66, 14.00, 33.07
+Accessory combined with unique difference: 87.03, 19.00, 111.61
+
+N=15
+Core groups 84.386
+Accessory groups 818.243
+Unique groups 1275.851
+
+N=15 -> N=16
+Core difference: -1.19, 0.00, 8.05
+Unique difference: 64.62, 10.00, 115.14
+Accessory difference: 25.64, 11.00, 31.80
+Accessory combined with unique difference: 90.26, 20.00, 113.19
+
+N=16
+Core groups 83.192
+Accessory groups 843.887
+Unique groups 1340.471
+
+N=16 -> N=17
+Core difference: -1.10, 0.00, 7.66
+Unique difference: 66.72, 12.00, 114.06
+Accessory difference: 25.08, 11.00, 31.66
+Accessory combined with unique difference: 91.79, 19.00, 112.61
+
+N=17
+Core groups 82.09
+Accessory groups 868.965
+Unique groups 1407.187
+
+N=17 -> N=18
+Core difference: -0.74, 0.00, 4.37
+Unique difference: 55.51, 9.00, 107.20
+Accessory difference: 24.71, 10.00, 31.07
+Accessory combined with unique difference: 80.21, 17.00, 105.74
+
+N=18
+Core groups 81.354
+Accessory groups 893.671
+Unique groups 1462.694
+
+N=18 -> N=19
+Core difference: -0.84, 0.00, 7.70
+Unique difference: 58.73, 4.00, 112.71
+Accessory difference: 23.57, 10.00, 30.21
+Accessory combined with unique difference: 82.30, 16.00, 111.11
+
+N=19
+Core groups 80.51
+Accessory groups 917.238
+Unique groups 1521.424
+
+N=19 -> N=20
+Core difference: -0.47, 0.00, 2.90
+Unique difference: 57.95, 6.00, 108.48
+Accessory difference: 19.86, 8.00, 27.66
+Accessory combined with unique difference: 77.81, 16.00, 107.17
+
+N=20
+Core groups 80.042
+Accessory groups 937.099
+Unique groups 1579.378
+
+N=20 -> N=21
+Core difference: -0.37, 0.00, 2.43
+Unique difference: 55.64, 4.00, 105.73
+Accessory difference: 20.84, 8.00, 28.24
+Accessory combined with unique difference: 76.48, 15.00, 105.63
+
+N=21
+Core groups 79.672
+Accessory groups 957.938
+Unique groups 1635.015
+
+N=21 -> N=22
+Core difference: -0.45, 0.00, 2.27
+Unique difference: 58.91, 6.00, 104.46
+Accessory difference: 18.85, 8.00, 26.54
+Accessory combined with unique difference: 77.76, 15.00, 105.37
+
+N=22
+Core groups 79.222
+Accessory groups 976.784
+Unique groups 1693.929
+
+N=22 -> N=23
+Core difference: -0.34, 0.00, 0.97
+Unique difference: 59.43, 5.00, 104.61
+Accessory difference: 19.46, 8.00, 27.72
+Accessory combined with unique difference: 78.88, 16.00, 105.46
+
+N=23
+Core groups 78.887
+Accessory groups 996.241
+Unique groups 1753.355
+
+N=23 -> N=24
+Core difference: -0.29, 0.00, 0.88
+Unique difference: 62.56, 5.00, 107.72
+Accessory difference: 19.28, 8.00, 25.95
+Accessory combined with unique difference: 81.84, 15.00, 109.26
+
+N=24
+Core groups 78.595
+Accessory groups 1015.517
+Unique groups 1815.916
+
+N=24 -> N=25
+Core difference: -0.36, 0.00, 1.22
+Unique difference: 61.42, 4.00, 106.43
+Accessory difference: 18.18, 8.00, 25.68
+Accessory combined with unique difference: 79.60, 15.00, 108.28
+
+N=25
+Core groups 78.236
+Accessory groups 1033.697
+Unique groups 1877.337
+
+N=25 -> N=26
+Core difference: -0.32, 0.00, 1.21
+Unique difference: 60.33, 1.00, 106.39
+Accessory difference: 16.77, 7.00, 23.14
+Accessory combined with unique difference: 77.10, 13.00, 108.08
+
+N=26
+Core groups 77.92
+Accessory groups 1050.468
+Unique groups 1937.663
+
+N=26 -> N=27
+Core difference: -0.23, 0.00, 0.73
+Unique difference: 56.84, 1.00, 100.52
+Accessory difference: 15.34, 6.00, 22.61
+Accessory combined with unique difference: 72.17, 12.00, 103.45
+
+N=27
+Core groups 77.69
+Accessory groups 1065.803
+Unique groups 1994.503
+
+N=27 -> N=28
+Core difference: -0.23, 0.00, 0.74
+Unique difference: 57.09, 1.00, 100.54
+Accessory difference: 16.35, 7.00, 22.78
+Accessory combined with unique difference: 73.44, 10.00, 103.72
+
+N=28
+Core groups 77.463
+Accessory groups 1082.157
+Unique groups 2051.59
+
+N=28 -> N=29
+Core difference: -0.21, 0.00, 0.70
+Unique difference: 53.16, 0.00, 98.37
+Accessory difference: 15.67, 7.00, 21.39
+Accessory combined with unique difference: 68.83, 10.00, 101.87
+
+N=29
+Core groups 77.257
+Accessory groups 1097.827
+Unique groups 2104.753
+
+N=29 -> N=30
+Core difference: -0.23, 0.00, 0.76
+Unique difference: 57.51, 1.00, 98.30
+Accessory difference: 14.17, 7.00, 20.17
+Accessory combined with unique difference: 71.68, 10.00, 102.69
+
+N=30
+Core groups 77.022
+Accessory groups 1111.997
+Unique groups 2162.266
+
+N=30 -> N=31
+Core difference: -0.21, 0.00, 0.69
+Unique difference: 53.79, 0.00, 97.53
+Accessory difference: 13.25, 6.00, 19.41
+Accessory combined with unique difference: 67.04, 9.00, 101.33
+
+N=31
+Core groups 76.815
+Accessory groups 1125.243
+Unique groups 2216.057
+
+N=31 -> N=32
+Core difference: -0.22, 0.00, 0.70
+Unique difference: 58.57, 1.00, 99.73
+Accessory difference: 14.32, 7.00, 19.82
+Accessory combined with unique difference: 72.88, 10.00, 104.20
+
+N=32
+Core groups 76.593
+Accessory groups 1139.559
+Unique groups 2274.625
+
+N=32 -> N=33
+Core difference: -0.22, 0.00, 0.71
+Unique difference: 57.83, 1.00, 96.98
+Accessory difference: 13.09, 6.00, 17.79
+Accessory combined with unique difference: 70.92, 10.00, 101.13
+
+N=33
+Core groups 76.375
+Accessory groups 1152.646
+Unique groups 2332.457
+
+N=33 -> N=34
+Core difference: -0.18, 0.00, 0.65
+Unique difference: 55.53, 1.00, 94.35
+Accessory difference: 12.38, 7.00, 15.34
+Accessory combined with unique difference: 67.91, 9.00, 99.70
+
+N=34
+Core groups 76.191
+Accessory groups 1165.024
+Unique groups 2387.987
+
+N=34 -> N=35
+Core difference: -0.19, 0.00, 0.67
+Unique difference: 53.01, 0.00, 94.93
+Accessory difference: 11.98, 5.00, 15.10
+Accessory combined with unique difference: 64.99, 7.00, 100.31

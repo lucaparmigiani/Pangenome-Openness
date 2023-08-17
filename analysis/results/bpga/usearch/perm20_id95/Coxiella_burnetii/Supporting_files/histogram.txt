@@ -1,0 +1,14 @@
+Number of genomes	Number of gene families
+1	459
+2	160
+3	110
+4	65
+5	45
+6	33
+7	22
+8	21
+9	114
+10	66
+11	60
+12	94
+13	1518

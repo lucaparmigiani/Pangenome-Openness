@@ -1,0 +1,227 @@
+#Each genome is added to the pangenome of the remaining genomes to identify the number of groups gained (accessory, unique) or lost (core, unique)
+
+Average gain/loss when adding the 35th genome, standard deviation, range 
+Core: -0.20, 0.67, 0 0
+Accessory: 11.66, 15.04, 16 5
+Unique: 58.09, 96.83, -16 231
+
+Median gain/loss when adding the 35th genome
+Core: 0.0
+Accessory: 6.0
+Unique: 5.0
+
+Highest unique gain 306 was caused by genome 15
+Highest core loss -3 was caused by genome 20
+
+
+#Group gain/loss per genome
+Genome 1
+Distinct genes: 592 (600 total)
+ Core loss 0
+ Accessory gain 16
+ Unique gain/loss 0/16
+
+Genome 2
+Distinct genes: 524 (524 total)
+ Core loss 0
+ Accessory gain 55
+ Unique gain/loss 291/55
+
+Genome 3
+Distinct genes: 589 (593 total)
+ Core loss 0
+ Accessory gain 0
+ Unique gain/loss 1/0
+
+Genome 4
+Distinct genes: 578 (579 total)
+ Core loss 0
+ Accessory gain 0
+ Unique gain/loss 0/0
+
+Genome 5
+Distinct genes: 578 (579 total)
+ Core loss 0
+ Accessory gain 0
+ Unique gain/loss 0/0
+
+Genome 6
+Distinct genes: 373 (374 total)
+ Core loss 0
+ Accessory gain 27
+ Unique gain/loss 120/27
+
+Genome 7
+Distinct genes: 580 (591 total)
+ Core loss 0
+ Accessory gain 2
+ Unique gain/loss 1/2
+
+Genome 8
+Distinct genes: 588 (591 total)
+ Core loss 0
+ Accessory gain 1
+ Unique gain/loss 7/1
+
+Genome 9
+Distinct genes: 550 (552 total)
+ Core loss 0
+ Accessory gain 40
+ Unique gain/loss 10/40
+
+Genome 10
+Distinct genes: 592 (592 total)
+ Core loss 0
+ Accessory gain 0
+ Unique gain/loss 0/0
+
+Genome 11
+Distinct genes: 593 (593 total)
+ Core loss 0
+ Accessory gain 0
+ Unique gain/loss 0/0
+
+Genome 12
+Distinct genes: 592 (594 total)
+ Core loss 0
+ Accessory gain 0
+ Unique gain/loss 0/0
+
+Genome 13
+Distinct genes: 592 (593 total)
+ Core loss 0
+ Accessory gain 0
+ Unique gain/loss 0/0
+
+Genome 14
+Distinct genes: 585 (590 total)
+ Core loss 0
+ Accessory gain 13
+ Unique gain/loss 1/13
+
+Genome 15
+Distinct genes: 547 (547 total)
+ Core loss 0
+ Accessory gain 54
+ Unique gain/loss 306/54
+
+Genome 16
+Distinct genes: 580 (586 total)
+ Core loss 0
+ Accessory gain 5
+ Unique gain/loss 58/5
+
+Genome 17
+Distinct genes: 588 (590 total)
+ Core loss 0
+ Accessory gain 5
+ Unique gain/loss 80/5
+
+Genome 18
+Distinct genes: 601 (608 total)
+ Core loss 0
+ Accessory gain 17
+ Unique gain/loss 0/17
+
+Genome 19
+Distinct genes: 593 (602 total)
+ Core loss 0
+ Accessory gain 3
+ Unique gain/loss 14/3
+
+Genome 20
+Distinct genes: 390 (390 total)
+ Core loss -3
+ Accessory gain 2
+ Unique gain/loss 253/2
+
+Genome 21
+Distinct genes: 568 (575 total)
+ Core loss 0
+ Accessory gain 2
+ Unique gain/loss 107/2
+
+Genome 22
+Distinct genes: 588 (590 total)
+ Core loss 0
+ Accessory gain 8
+ Unique gain/loss 2/8
+
+Genome 23
+Distinct genes: 587 (590 total)
+ Core loss 0
+ Accessory gain 9
+ Unique gain/loss 87/9
+
+Genome 24
+Distinct genes: 585 (586 total)
+ Core loss 0
+ Accessory gain 7
+ Unique gain/loss 0/7
+
+Genome 25
+Distinct genes: 579 (580 total)
+ Core loss 0
+ Accessory gain 1
+ Unique gain/loss 15/1
+
+Genome 26
+Distinct genes: 598 (600 total)
+ Core loss 0
+ Accessory gain 4
+ Unique gain/loss 9/4
+
+Genome 27
+Distinct genes: 576 (577 total)
+ Core loss 0
+ Accessory gain 8
+ Unique gain/loss 1/8
+
+Genome 28
+Distinct genes: 455 (455 total)
+ Core loss -2
+ Accessory gain 2
+ Unique gain/loss 293/2
+
+Genome 29
+Distinct genes: 539 (539 total)
+ Core loss 0
+ Accessory gain 40
+ Unique gain/loss 17/40
+
+Genome 30
+Distinct genes: 578 (580 total)
+ Core loss 0
+ Accessory gain 15
+ Unique gain/loss 2/15
+
+Genome 31
+Distinct genes: 588 (588 total)
+ Core loss 0
+ Accessory gain 9
+ Unique gain/loss 0/9
+
+Genome 32
+Distinct genes: 384 (384 total)
+ Core loss -2
+ Accessory gain 6
+ Unique gain/loss 262/6
+
+Genome 33
+Distinct genes: 384 (385 total)
+ Core loss 0
+ Accessory gain 29
+ Unique gain/loss 132/29
+
+Genome 34
+Distinct genes: 381 (382 total)
+ Core loss 0
+ Accessory gain 23
+ Unique gain/loss 136/23
+
+Genome 35
+Distinct genes: 390 (390 total)
+ Core loss 0
+ Accessory gain 5
+ Unique gain/loss 236/5
+

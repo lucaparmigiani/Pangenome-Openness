@@ -1,0 +1,605 @@
+N = 2
+ Core range 4084423-4499249
+ Average 4314555
+
+ Accessory range 0-0
+ Average 0
+
+ Unique range 835-492241
+ Average 216998
+
+
+N = 3
+ Core range 3985199-4453647
+ Average 4235181
+
+ Accessory range 29768-460520
+ Average 222670
+
+ Unique range 8216-332765
+ Average 120924
+
+
+N = 4
+ Core range 3962886-4401495
+ Average 4171260
+
+ Accessory range 121685-578680
+ Average 345377
+
+ Unique range 13203-253260
+ Average 81883
+
+
+N = 5
+ Core range 3921114-4369851
+ Average 4129753
+
+ Accessory range 148504-629570
+ Average 411976
+
+ Unique range 3694-228156
+ Average 69909
+
+
+N = 6
+ Core range 3902455-4365979
+ Average 4097084
+
+ Accessory range 174917-642802
+ Average 456260
+
+ Unique range 12425-223110
+ Average 70397
+
+
+N = 7
+ Core range 3883091-4266082
+ Average 4066412
+
+ Accessory range 274991-672185
+ Average 493590
+
+ Unique range 12784-226751
+ Average 75108
+
+
+N = 8
+ Core range 3865921-4265256
+ Average 4041881
+
+ Accessory range 276023-714074
+ Average 528122
+
+ Unique range 10774-171802
+ Average 74075
+
+
+N = 9
+ Core range 3864827-4185632
+ Average 4026367
+
+ Accessory range 357064-732535
+ Average 550694
+
+ Unique range 11097-172615
+ Average 73188
+
+
+N = 10
+ Core range 3826877-4185194
+ Average 4009728
+
+ Accessory range 366757-778127
+ Average 574429
+
+ Unique range 11294-165658
+ Average 71614
+
+
+N = 11
+ Core range 3819381-4114283
+ Average 3993150
+
+ Accessory range 458970-786055
+ Average 595941
+
+ Unique range 13975-175381
+ Average 73922
+
+
+N = 12
+ Core range 3816306-4087921
+ Average 3983105
+
+ Accessory range 479834-789210
+ Average 611548
+
+ Unique range 13419-169633
+ Average 75452
+
+
+N = 13
+ Core range 3810145-4087187
+ Average 3971202
+
+ Accessory range 493920-795609
+ Average 627952
+
+ Unique range 13547-175190
+ Average 75488
+
+
+N = 14
+ Core range 3808832-4071461
+ Average 3964788
+
+ Accessory range 495360-797862
+ Average 637802
+
+ Unique range 13813-175475
+ Average 76718
+
+
+N = 15
+ Core range 3753754-4071248
+ Average 3953409
+
+ Accessory range 525205-853315
+ Average 654259
+
+ Unique range 17904-176733
+ Average 77427
+
+
+N = 16
+ Core range 3752021-4069471
+ Average 3945459
+
+ Accessory range 525770-855369
+ Average 666107
+
+ Unique range 17817-161403
+ Average 79176
+
+
+N = 17
+ Core range 3751741-4069346
+ Average 3936816
+
+ Accessory range 530986-855833
+ Average 677742
+
+ Unique range 18372-164330
+ Average 79619
+
+
+N = 18
+ Core range 3751680-4068401
+ Average 3929305
+
+ Accessory range 532034-856150
+ Average 688759
+
+ Unique range 19023-166455
+ Average 80355
+
+
+N = 19
+ Core range 3740953-4066402
+ Average 3917665
+
+ Accessory range 532368-868596
+ Average 702585
+
+ Unique range 20786-166684
+ Average 83043
+
+
+N = 20
+ Core range 3740953-4055799
+ Average 3907653
+
+ Accessory range 537817-886246
+ Average 715502
+
+ Unique range 19625-175237
+ Average 84866
+
+
+N = 21
+ Core range 3740785-4046461
+ Average 3899540
+
+ Accessory range 538394-886542
+ Average 725990
+
+ Unique range 25021-174842
+ Average 87683
+
+
+N = 22
+ Core range 3740449-4034917
+ Average 3890469
+
+ Accessory range 586531-890446
+ Average 737222
+
+ Unique range 25149-175176
+ Average 88608
+
+
+N = 23
+ Core range 3739207-4034493
+ Average 3881727
+
+ Accessory range 587053-891053
+ Average 747749
+
+ Unique range 26485-173755
+ Average 92542
+
+
+N = 24
+ Core range 3738886-4033770
+ Average 3873816
+
+ Accessory range 587554-892038
+ Average 757590
+
+ Unique range 28863-206893
+ Average 95027
+
+
+N = 25
+ Core range 3718485-4033573
+ Average 3865151
+
+ Accessory range 613284-939554
+ Average 767500
+
+ Unique range 34203-203647
+ Average 97085
+
+
+N = 26
+ Core range 3718252-4026134
+ Average 3858228
+
+ Accessory range 623270-939869
+ Average 775808
+
+ Unique range 34848-185991
+ Average 98825
+
+
+N = 27
+ Core range 3716894-4025095
+ Average 3852204
+
+ Accessory range 624365-940367
+ Average 783634
+
+ Unique range 36252-169496
+ Average 99923
+
+
+N = 28
+ Core range 3716709-3984992
+ Average 3841188
+
+ Accessory range 632817-940650
+ Average 796451
+
+ Unique range 36581-170091
+ Average 101751
+
+
+N = 29
+ Core range 3715844-3975708
+ Average 3832284
+
+ Accessory range 656597-942142
+ Average 807785
+
+ Unique range 35447-174660
+ Average 103072
+
+
+N = 30
+ Core range 3711875-3975511
+ Average 3825768
+
+ Accessory range 657173-942691
+ Average 816930
+
+ Unique range 36048-175043
+ Average 104607
+
+
+N = 31
+ Core range 3710164-3975497
+ Average 3818686
+
+ Accessory range 676638-953362
+ Average 826092
+
+ Unique range 35926-175236
+ Average 106853
+
+
+N = 32
+ Core range 3709998-3972021
+ Average 3813481
+
+ Accessory range 680152-953950
+ Average 833111
+
+ Unique range 35094-179281
+ Average 107925
+
+
+N = 33
+ Core range 3709321-3971679
+ Average 3806697
+
+ Accessory range 680847-956113
+ Average 841452
+
+ Unique range 40842-179324
+ Average 110369
+
+
+N = 34
+ Core range 3708267-3963430
+ Average 3801212
+
+ Accessory range 689292-961900
+ Average 848864
+
+ Unique range 40937-179735
+ Average 110758
+
+
+N = 35
+ Core range 3705661-3962850
+ Average 3797203
+
+ Accessory range 690821-963323
+ Average 853930
+
+ Unique range 41137-177171
+ Average 112537
+
+
+N = 36
+ Core range 3704939-3962766
+ Average 3793463
+
+ Accessory range 691065-964988
+ Average 858596
+
+ Unique range 41389-177739
+ Average 114269
+
+
+N = 37
+ Core range 3704617-3958425
+ Average 3790040
+
+ Accessory range 695701-965403
+ Average 864228
+
+ Unique range 42181-176296
+ Average 114063
+
+
+N = 38
+ Core range 3704397-3957907
+ Average 3786975
+
+ Accessory range 696219-968625
+ Average 868839
+
+ Unique range 42606-172518
+ Average 115509
+
+
+N = 39
+ Core range 3704383-3957336
+ Average 3779935
+
+ Accessory range 696829-968923
+ Average 877627
+
+ Unique range 41368-173229
+ Average 115963
+
+
+N = 40
+ Core range 3703752-3949418
+ Average 3776040
+
+ Accessory range 707995-969435
+ Average 882011
+
+ Unique range 62953-173624
+ Average 117565
+
+
+N = 41
+ Core range 3702245-3949251
+ Average 3772089
+
+ Accessory range 708310-969835
+ Average 887285
+
+ Unique range 63363-175884
+ Average 117950
+
+
+N = 42
+ Core range 3702138-3949198
+ Average 3767795
+
+ Accessory range 708532-972186
+ Average 893312
+
+ Unique range 65713-176444
+ Average 119072
+
+
+N = 43
+ Core range 3701376-3944312
+ Average 3763258
+
+ Accessory range 713523-974793
+ Average 899546
+
+ Unique range 66735-178856
+ Average 120642
+
+
+N = 44
+ Core range 3700258-3943034
+ Average 3759780
+
+ Accessory range 714849-976357
+ Average 903574
+
+ Unique range 66776-180503
+ Average 122766
+
+
+N = 45
+ Core range 3699794-3942336
+ Average 3753721
+
+ Accessory range 715631-976841
+ Average 911399
+
+ Unique range 46554-181810
+ Average 123013
+
+
+N = 46
+ Core range 3699579-3942308
+ Average 3749140
+
+ Accessory range 716964-976978
+ Average 917509
+
+ Unique range 46799-181638
+ Average 123979
+
+
+N = 47
+ Core range 3699130-3885880
+ Average 3743532
+
+ Accessory range 773451-978871
+ Average 925275
+
+ Unique range 49091-182788
+ Average 123903
+
+
+N = 48
+ Core range 3698704-3845164
+ Average 3732799
+
+ Accessory range 814925-979496
+ Average 937636
+
+ Unique range 49808-183166
+ Average 124421
+
+
+N = 49
+ Core range 3698503-3845164
+ Average 3727947
+
+ Accessory range 815340-979882
+ Average 943800
+
+ Unique range 50963-185416
+ Average 126957
+
+
+N = 50
+ Core range 3698019-3844958
+ Average 3722475
+
+ Accessory range 815726-980630
+ Average 950162
+
+ Unique range 72684-185504
+ Average 129478
+
+
+N = 51
+ Core range 3697627-3844844
+ Average 3717227
+
+ Accessory range 815924-980878
+ Average 956868
+
+ Unique range 72142-186520
+ Average 130519
+
+
+N = 52
+ Core range 3697513-3844528
+ Average 3712412
+
+ Accessory range 816541-981200
+ Average 962308
+
+ Unique range 72312-184837
+ Average 131078
+
+
+N = 53
+ Core range 3697253-3777079
+ Average 3708027
+
+ Accessory range 884230-981511
+ Average 967845
+
+ Unique range 74636-168229
+ Average 132103
+
+
+N = 54
+ Core range 3697153-3764634
+ Average 3703607
+
+ Accessory range 914381-981916
+ Average 973828
+
+ Unique range 77019-168023
+ Average 132149
+
+
+N = 55
+ Core range 3697092-3764153
+ Average 3699756
+
+ Accessory range 914930-982137
+ Average 979156
+
+ Unique range 78997-153257
+ Average 133919
+
+
+N = 56
+ Core range 3697092-3697092
+ Average 3697092
+
+ Accessory range 982231-982231
+ Average 982231
+
+ Unique range 136206-136206
+ Average 136206
+
+
