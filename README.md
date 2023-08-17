@@ -1,5 +1,7 @@
 # Pangenome Openness
 
+[![DOI](https://zenodo.org/badge/679688025.svg)](https://zenodo.org/badge/latestdoi/679688025)
+
 This repository is dedicated to the experiment section of the paper:
 Parmigiani, L., Wittler, R., Stoye, J.: [Revisiting pangenome openness with k-mers](https://doi.org/10.1101/2022.11.15.516472  ). bioRxiv. (2022).
 
@@ -23,8 +25,8 @@ You can use directly that with the R scripts `analysis/reading.R` and
 `analysis/fitting.R` to read and fit the data.
 
 ## Raw data
-To generate the raw data from each we provide some scripts and a snakemake workflow.
-The pipeline is divided into steps, so that it is not necessary to run it all if
+To generate the results from each tool we provide scripts and a snakemake workflow.
+The pipeline is divided into steps, so that it is not necessary to run all if
 you want to reproduce just some parts of the results. 
 
 Each tool can be run using snakemake, except for BPGA for which a script is provided. 
