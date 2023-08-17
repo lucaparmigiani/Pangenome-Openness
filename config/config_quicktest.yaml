@@ -1,0 +1,8 @@
+OUTDIR: "results/"
+DATA: "data/"
+K: ["15", "17"]
+pangenome:
+    Francisella_tularensis:
+        kingdom: Bacteria
+        genus: Francisella
+        species: tularensis

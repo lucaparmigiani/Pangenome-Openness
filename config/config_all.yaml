@@ -1,0 +1,52 @@
+OUTDIR: "results/"
+DATA: "data/"
+K: ["9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31"]
+pangenome:
+    Francisella_tularensis:
+        kingdom: Bacteria
+        genus: Francisella
+        species: tularensis
+    Coxiella_burnetii:
+        kingdom: Bacteria
+        genus: Coxiella
+        species: burnetii
+    Yersinia_pestis:
+        kingdom: Bacteria
+        genus: Yersinia
+        species: pestis
+    Streptococcus_pneumoniae:
+        kingdom: Bacteria
+        genus: Streptococcus
+        species: pneumoniae
+    Helicobacter_pylori:
+        kingdom: Bacteria
+        genus: Helicobacter
+        species: pylori
+    Clostridium_botulinum:
+        kingdom: Bacteria
+        genus: Clostridium
+        species: botulinum
+    Rhodopseudomonas_palustris:
+        kingdom: Bacteria
+        genus: Rhodopseudomonas
+        species: palustris
+    Streptococcus_pyogenes:
+        kingdom: Bacteria
+        genus: Streptococcus
+        species: pyogenes
+    Prochlorococcus_marinus:
+        kingdom: Bacteria
+        genus: Prochlorococcus
+        species: marinus
+    Campylobacter_jejuni:
+        kingdom: Bacteria
+        genus: Campylobacter
+        species: jejuni
+    Buchnera_aphidicola:
+        kingdom: Bacteria
+        genus: Buchnera
+        species: aphidicola
+    Bacillus_cereus:
+        kingdom: Bacteria
+        genus: Bacillus
+        species: cereus

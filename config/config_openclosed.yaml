@@ -1,0 +1,12 @@
+OUTDIR: "results/"
+DATA: "data/"
+K: ["17"]
+pangenome:
+    Yersinia_pestis:
+        kingdom: Bacteria
+        genus: Yersinia
+        species: pestis
+    Streptococcus_pneumoniae:
+        kingdom: Bacteria
+        genus: Streptococcus
+        species: pneumoniae
