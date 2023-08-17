@@ -198,6 +198,8 @@ BPGA can be installed from [https://sourceforge.net/projects/bpgatool/files/](ht
 You can find a script at `scripts/bpga_automatic.sh` that accepts a species as
 input and initiates a tmux session, automatically sending the necessary
 keystrokes to run BPGA. 
+Please ensure the `faa` variable within `scripts/bpga_automatic.sh` is set to
+the directory containing all the relevant protein files.  
 The script has to be copied into a directory containg BPGA as follows:
 
 ```bash
@@ -208,15 +210,10 @@ cd BPGA-1.3-linux-x86_64-0-0-0/BPGA-Version-1.3/bin
 chmod +x BPGA-Version-1.3
 ```
 
-Please ensure the `faa` variable within
-`scripts/bpga_automatic.sh` is set to the directory containing all the relevant
-protein files.
-
 If you encounter issues with the automated script, BPGA can also be executed
-manually. Simply pass in the directory containing the protein files for your
-desired species.
+manually. Simply pass in the directory containing the protein files.
 
-The folder containing all the proteins can be obtained by after running Prokka.
+The folder containing all the proteins can be obtained by running Prokka.
 
 ## 3. Analysis
 
