@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/679688025.svg)](https://zenodo.org/badge/latestdoi/679688025)
 
 This repository is dedicated to the experiment section of the paper:
-Parmigiani, L., Wittler, R., Stoye, J.: [Revisiting pangenome openness with k-mers](https://doi.org/10.1101/2022.11.15.516472  ). bioRxiv. (2022).
+Parmigiani, L., Wittler, R., Stoye, J.: [Revisiting pangenome openness with k-mers](https://doi.org/10.24072/pcjournal.415 ). PCJ Math & Comp Biol. (2024).
 
 - The analysis was performed on twelve bacterial pangenomes
 - Tools:
